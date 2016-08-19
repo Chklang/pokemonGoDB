@@ -12,15 +12,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="106"/>
-				<basic id="113"/>
-			</basics>
-			<specials>
-				<special id="59"/>
-				<special id="34"/>
-				<special id="81"/>
-			</specials>
+			<attack id="106"/>
+			<attack id="113"/>
+			<attack id="59"/>
+			<attack id="34"/>
+			<attack id="81"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="2" generation="1">
@@ -35,15 +31,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="107"/>
-				<basic id="106"/>
-			</basics>
-			<specials>
-				<special id="59"/>
-				<special id="79"/>
-				<special id="81"/>
-			</specials>
+			<attack id="107"/>
+			<attack id="106"/>
+			<attack id="59"/>
+			<attack id="79"/>
+			<attack id="81"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="3" generation="1">
@@ -57,15 +49,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="107"/>
-				<basic id="106"/>
-			</basics>
-			<specials>
-				<special id="59"/>
-				<special id="24"/>
-				<special id="79"/>
-			</specials>
+			<attack id="107"/>
+			<attack id="106"/>
+			<attack id="59"/>
+			<attack id="24"/>
+			<attack id="79"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="4" generation="1">
@@ -79,15 +67,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="101"/>
-				<basic id="112"/>
-			</basics>
-			<specials>
-				<special id="67"/>
-				<special id="68"/>
-				<special id="8"/>
-			</specials>
+			<attack id="101"/>
+			<attack id="112"/>
+			<attack id="67"/>
+			<attack id="68"/>
+			<attack id="8"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="5" generation="1">
@@ -101,15 +85,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="101"/>
-				<basic id="112"/>
-			</basics>
-			<specials>
-				<special id="78"/>
-				<special id="68"/>
-				<special id="8"/>
-			</specials>
+			<attack id="101"/>
+			<attack id="112"/>
+			<attack id="78"/>
+			<attack id="68"/>
+			<attack id="8"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="6" generation="1">
@@ -123,15 +103,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="101"/>
-				<basic id="102"/>
-			</basics>
-			<specials>
-				<special id="69"/>
-				<special id="52"/>
-				<special id="8"/>
-			</specials>
+			<attack id="101"/>
+			<attack id="102"/>
+			<attack id="69"/>
+			<attack id="52"/>
+			<attack id="8"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="7" generation="1">
@@ -145,15 +121,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="128"/>
-				<basic id="113"/>
-			</basics>
-			<specials>
-				<special id="32"/>
-				<special id="33"/>
-				<special id="71"/>
-			</specials>
+			<attack id="128"/>
+			<attack id="113"/>
+			<attack id="32"/>
+			<attack id="33"/>
+			<attack id="71"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="8" generation="1">
@@ -167,15 +139,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="122"/>
-				<basic id="94"/>
-			</basics>
-			<specials>
-				<special id="32"/>
-				<special id="19"/>
-				<special id="73"/>
-			</specials>
+			<attack id="122"/>
+			<attack id="94"/>
+			<attack id="32"/>
+			<attack id="19"/>
+			<attack id="73"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="9" generation="1">
@@ -188,15 +156,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="122"/>
-				<basic id="94"/>
-			</basics>
-			<specials>
-				<special id="17"/>
-				<special id="19"/>
-				<special id="73"/>
-			</specials>
+			<attack id="122"/>
+			<attack id="94"/>
+			<attack id="17"/>
+			<attack id="19"/>
+			<attack id="73"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="10" generation="1">
@@ -210,13 +174,9 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="93"/>
-				<basic id="113"/>
-			</basics>
-			<specials>
-				<special id="91"/>
-			</specials>
+			<attack id="93"/>
+			<attack id="113"/>
+			<attack id="91"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="11" generation="1">
@@ -230,13 +190,9 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="93"/>
-				<basic id="113"/>
-			</basics>
-			<specials>
-				<special id="91"/>
-			</specials>
+			<attack id="93"/>
+			<attack id="113"/>
+			<attack id="91"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="12" generation="1">
@@ -250,15 +206,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="93"/>
-				<basic id="126"/>
-			</basics>
-			<specials>
-				<special id="26"/>
-				<special id="74"/>
-				<special id="65"/>
-			</specials>
+			<attack id="93"/>
+			<attack id="126"/>
+			<attack id="26"/>
+			<attack id="74"/>
+			<attack id="65"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="13" generation="1">
@@ -273,13 +225,9 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="93"/>
-				<basic id="127"/>
-			</basics>
-			<specials>
-				<special id="91"/>
-			</specials>
+			<attack id="93"/>
+			<attack id="127"/>
+			<attack id="91"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="14" generation="1">
@@ -294,13 +242,9 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="93"/>
-				<basic id="127"/>
-			</basics>
-			<specials>
-				<special id="91"/>
-			</specials>
+			<attack id="93"/>
+			<attack id="127"/>
+			<attack id="91"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="15" generation="1">
@@ -314,15 +258,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="93"/>
-				<basic id="116"/>
-			</basics>
-			<specials>
-				<special id="59"/>
-				<special id="22"/>
-				<special id="66"/>
-			</specials>
+			<attack id="93"/>
+			<attack id="116"/>
+			<attack id="59"/>
+			<attack id="22"/>
+			<attack id="66"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="16" generation="1">
@@ -337,15 +277,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="111"/>
-				<basic id="113"/>
-			</basics>
-			<specials>
-				<special id="50"/>
-				<special id="22"/>
-				<special id="82"/>
-			</specials>
+			<attack id="111"/>
+			<attack id="113"/>
+			<attack id="50"/>
+			<attack id="22"/>
+			<attack id="82"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="17" generation="1">
@@ -360,15 +296,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="102"/>
-				<basic id="130"/>
-			</basics>
-			<specials>
-				<special id="50"/>
-				<special id="22"/>
-				<special id="82"/>
-			</specials>
+			<attack id="102"/>
+			<attack id="130"/>
+			<attack id="50"/>
+			<attack id="22"/>
+			<attack id="82"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="18" generation="1">
@@ -382,15 +314,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="102"/>
-				<basic id="130"/>
-			</basics>
-			<specials>
-				<special id="83"/>
-				<special id="22"/>
-				<special id="82"/>
-			</specials>
+			<attack id="102"/>
+			<attack id="130"/>
+			<attack id="83"/>
+			<attack id="22"/>
+			<attack id="82"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="19" generation="1">
@@ -404,15 +332,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="113"/>
-				<basic id="111"/>
-			</basics>
-			<specials>
-				<special id="9"/>
-				<special id="88"/>
-				<special id="89"/>
-			</specials>
+			<attack id="113"/>
+			<attack id="111"/>
+			<attack id="9"/>
+			<attack id="88"/>
+			<attack id="89"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="20" generation="1">
@@ -425,15 +349,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="94"/>
-				<basic id="111"/>
-			</basics>
-			<specials>
-				<special id="9"/>
-				<special id="88"/>
-				<special id="2"/>
-			</specials>
+			<attack id="94"/>
+			<attack id="111"/>
+			<attack id="9"/>
+			<attack id="88"/>
+			<attack id="2"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="21" generation="1">
@@ -448,15 +368,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="103"/>
-				<basic id="111"/>
-			</basics>
-			<specials>
-				<special id="22"/>
-				<special id="18"/>
-				<special id="50"/>
-			</specials>
+			<attack id="103"/>
+			<attack id="111"/>
+			<attack id="22"/>
+			<attack id="18"/>
+			<attack id="50"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="22" generation="1">
@@ -470,15 +386,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="103"/>
-				<basic id="130"/>
-			</basics>
-			<specials>
-				<special id="22"/>
-				<special id="23"/>
-				<special id="50"/>
-			</specials>
+			<attack id="103"/>
+			<attack id="130"/>
+			<attack id="22"/>
+			<attack id="23"/>
+			<attack id="50"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="23" generation="1">
@@ -492,15 +404,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="127"/>
-				<basic id="117"/>
-			</basics>
-			<specials>
-				<special id="1"/>
-				<special id="59"/>
-				<special id="61"/>
-			</specials>
+			<attack id="127"/>
+			<attack id="117"/>
+			<attack id="1"/>
+			<attack id="59"/>
+			<attack id="61"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="24" generation="1">
@@ -513,15 +421,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="94"/>
-				<basic id="117"/>
-			</basics>
-			<specials>
-				<special id="3"/>
-				<special id="60"/>
-				<special id="61"/>
-			</specials>
+			<attack id="94"/>
+			<attack id="117"/>
+			<attack id="3"/>
+			<attack id="60"/>
+			<attack id="61"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="25" generation="1">
@@ -535,15 +439,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="97"/>
-				<basic id="111"/>
-			</basics>
-			<specials>
-				<special id="16"/>
-				<special id="49"/>
-				<special id="48"/>
-			</specials>
+			<attack id="97"/>
+			<attack id="111"/>
+			<attack id="16"/>
+			<attack id="49"/>
+			<attack id="48"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="26" generation="1">
@@ -556,15 +456,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="97"/>
-				<basic id="98"/>
-			</basics>
-			<specials>
-				<special id="84"/>
-				<special id="47"/>
-				<special id="48"/>
-			</specials>
+			<attack id="97"/>
+			<attack id="98"/>
+			<attack id="84"/>
+			<attack id="47"/>
+			<attack id="48"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="27" generation="1">
@@ -578,15 +474,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="112"/>
-				<basic id="108"/>
-			</basics>
-			<specials>
-				<special id="9"/>
-				<special id="38"/>
-				<special id="37"/>
-			</specials>
+			<attack id="112"/>
+			<attack id="108"/>
+			<attack id="9"/>
+			<attack id="38"/>
+			<attack id="37"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="28" generation="1">
@@ -599,15 +491,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="120"/>
-				<basic id="108"/>
-			</basics>
-			<specials>
-				<special id="12"/>
-				<special id="37"/>
-				<special id="63"/>
-			</specials>
+			<attack id="120"/>
+			<attack id="108"/>
+			<attack id="12"/>
+			<attack id="37"/>
+			<attack id="63"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="29" generation="1">
@@ -621,15 +509,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="94"/>
-				<basic id="127"/>
-			</basics>
-			<specials>
-				<special id="27"/>
-				<special id="89"/>
-				<special id="59"/>
-			</specials>
+			<attack id="94"/>
+			<attack id="127"/>
+			<attack id="27"/>
+			<attack id="89"/>
+			<attack id="59"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="30" generation="1">
@@ -643,15 +527,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="94"/>
-				<basic id="127"/>
-			</basics>
-			<specials>
-				<special id="27"/>
-				<special id="9"/>
-				<special id="59"/>
-			</specials>
+			<attack id="94"/>
+			<attack id="127"/>
+			<attack id="27"/>
+			<attack id="9"/>
+			<attack id="59"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="31" generation="1">
@@ -665,15 +545,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="116"/>
-				<basic id="94"/>
-			</basics>
-			<specials>
-				<special id="12"/>
-				<special id="60"/>
-				<special id="13"/>
-			</specials>
+			<attack id="116"/>
+			<attack id="94"/>
+			<attack id="12"/>
+			<attack id="60"/>
+			<attack id="13"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="32" generation="1">
@@ -687,15 +563,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="103"/>
-				<basic id="127"/>
-			</basics>
-			<specials>
-				<special id="86"/>
-				<special id="89"/>
-				<special id="59"/>
-			</specials>
+			<attack id="103"/>
+			<attack id="127"/>
+			<attack id="86"/>
+			<attack id="89"/>
+			<attack id="59"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="33" generation="1">
@@ -709,15 +581,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="116"/>
-				<basic id="127"/>
-			</basics>
-			<specials>
-				<special id="86"/>
-				<special id="9"/>
-				<special id="59"/>
-			</specials>
+			<attack id="116"/>
+			<attack id="127"/>
+			<attack id="86"/>
+			<attack id="9"/>
+			<attack id="59"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="34" generation="1">
@@ -731,15 +599,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="116"/>
-				<basic id="92"/>
-			</basics>
-			<specials>
-				<special id="12"/>
-				<special id="60"/>
-				<special id="7"/>
-			</specials>
+			<attack id="116"/>
+			<attack id="92"/>
+			<attack id="12"/>
+			<attack id="60"/>
+			<attack id="7"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="35" generation="1">
@@ -753,15 +617,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="114"/>
-				<basic id="125"/>
-			</basics>
-			<specials>
-				<special id="53"/>
-				<special id="89"/>
-				<special id="56"/>
-			</specials>
+			<attack id="114"/>
+			<attack id="125"/>
+			<attack id="53"/>
+			<attack id="89"/>
+			<attack id="56"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="36" generation="1">
@@ -774,15 +634,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="114"/>
-				<basic id="125"/>
-			</basics>
-			<specials>
-				<special id="55"/>
-				<special id="74"/>
-				<special id="56"/>
-			</specials>
+			<attack id="114"/>
+			<attack id="125"/>
+			<attack id="55"/>
+			<attack id="74"/>
+			<attack id="56"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="37" generation="1">
@@ -796,15 +652,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="111"/>
-				<basic id="101"/>
-			</basics>
-			<specials>
-				<special id="89"/>
-				<special id="8"/>
-				<special id="67"/>
-			</specials>
+			<attack id="111"/>
+			<attack id="101"/>
+			<attack id="89"/>
+			<attack id="8"/>
+			<attack id="67"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="38" generation="1">
@@ -817,15 +669,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="129"/>
-				<basic id="101"/>
-			</basics>
-			<specials>
-				<special id="21"/>
-				<special id="8"/>
-				<special id="69"/>
-			</specials>
+			<attack id="129"/>
+			<attack id="101"/>
+			<attack id="21"/>
+			<attack id="8"/>
+			<attack id="69"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="39" generation="1">
@@ -840,15 +688,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="114"/>
-				<basic id="129"/>
-			</basics>
-			<specials>
-				<special id="53"/>
-				<special id="89"/>
-				<special id="57"/>
-			</specials>
+			<attack id="114"/>
+			<attack id="129"/>
+			<attack id="53"/>
+			<attack id="89"/>
+			<attack id="57"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="40" generation="1">
@@ -862,15 +706,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="114"/>
-				<basic id="129"/>
-			</basics>
-			<specials>
-				<special id="55"/>
-				<special id="2"/>
-				<special id="57"/>
-			</specials>
+			<attack id="114"/>
+			<attack id="129"/>
+			<attack id="55"/>
+			<attack id="2"/>
+			<attack id="57"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="41" generation="1">
@@ -885,15 +725,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="111"/>
-				<basic id="94"/>
-			</basics>
-			<specials>
-				<special id="27"/>
-				<special id="82"/>
-				<special id="59"/>
-			</specials>
+			<attack id="111"/>
+			<attack id="94"/>
+			<attack id="27"/>
+			<attack id="82"/>
+			<attack id="59"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="42" generation="1">
@@ -908,15 +744,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="102"/>
-				<basic id="94"/>
-			</basics>
-			<specials>
-				<special id="27"/>
-				<special id="82"/>
-				<special id="42"/>
-			</specials>
+			<attack id="102"/>
+			<attack id="94"/>
+			<attack id="27"/>
+			<attack id="82"/>
+			<attack id="42"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="43" generation="1">
@@ -931,15 +763,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="107"/>
-				<basic id="117"/>
-			</basics>
-			<specials>
-				<special id="34"/>
-				<special id="59"/>
-				<special id="56"/>
-			</specials>
+			<attack id="107"/>
+			<attack id="117"/>
+			<attack id="34"/>
+			<attack id="59"/>
+			<attack id="56"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="44" generation="1">
@@ -954,15 +782,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="107"/>
-				<basic id="117"/>
-			</basics>
-			<specials>
-				<special id="24"/>
-				<special id="59"/>
-				<special id="56"/>
-			</specials>
+			<attack id="107"/>
+			<attack id="117"/>
+			<attack id="24"/>
+			<attack id="59"/>
+			<attack id="56"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="45" generation="1">
@@ -976,15 +800,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="107"/>
-				<basic id="117"/>
-			</basics>
-			<specials>
-				<special id="24"/>
-				<special id="79"/>
-				<special id="56"/>
-			</specials>
+			<attack id="107"/>
+			<attack id="117"/>
+			<attack id="24"/>
+			<attack id="79"/>
+			<attack id="56"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="46" generation="1">
@@ -999,15 +819,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="112"/>
-				<basic id="93"/>
-			</basics>
-			<specials>
-				<special id="58"/>
-				<special id="66"/>
-				<special id="34"/>
-			</specials>
+			<attack id="112"/>
+			<attack id="93"/>
+			<attack id="58"/>
+			<attack id="66"/>
+			<attack id="34"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="47" generation="1">
@@ -1021,15 +837,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="93"/>
-				<basic id="92"/>
-			</basics>
-			<specials>
-				<special id="58"/>
-				<special id="66"/>
-				<special id="79"/>
-			</specials>
+			<attack id="93"/>
+			<attack id="92"/>
+			<attack id="58"/>
+			<attack id="66"/>
+			<attack id="79"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="48" generation="1">
@@ -1044,15 +856,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="93"/>
-				<basic id="126"/>
-			</basics>
-			<specials>
-				<special id="27"/>
-				<special id="11"/>
-				<special id="65"/>
-			</specials>
+			<attack id="93"/>
+			<attack id="126"/>
+			<attack id="27"/>
+			<attack id="11"/>
+			<attack id="65"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="49" generation="1">
@@ -1066,15 +874,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="93"/>
-				<basic id="126"/>
-			</basics>
-			<specials>
-				<special id="27"/>
-				<special id="74"/>
-				<special id="26"/>
-			</specials>
+			<attack id="93"/>
+			<attack id="126"/>
+			<attack id="27"/>
+			<attack id="74"/>
+			<attack id="26"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="50" generation="1">
@@ -1088,15 +892,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="108"/>
-				<basic id="112"/>
-			</basics>
-			<specials>
-				<special id="9"/>
-				<special id="64"/>
-				<special id="37"/>
-			</specials>
+			<attack id="108"/>
+			<attack id="112"/>
+			<attack id="9"/>
+			<attack id="64"/>
+			<attack id="37"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="51" generation="1">
@@ -1109,15 +909,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="95"/>
-				<basic id="108"/>
-			</basics>
-			<specials>
-				<special id="12"/>
-				<special id="64"/>
-				<special id="13"/>
-			</specials>
+			<attack id="95"/>
+			<attack id="108"/>
+			<attack id="12"/>
+			<attack id="64"/>
+			<attack id="13"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="52" generation="1">
@@ -1131,15 +927,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="112"/>
-				<basic id="94"/>
-			</basics>
-			<specials>
-				<special id="28"/>
-				<special id="3"/>
-				<special id="89"/>
-			</specials>
+			<attack id="112"/>
+			<attack id="94"/>
+			<attack id="28"/>
+			<attack id="3"/>
+			<attack id="89"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="53" generation="1">
@@ -1152,15 +944,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="112"/>
-				<basic id="129"/>
-			</basics>
-			<specials>
-				<special id="28"/>
-				<special id="39"/>
-				<special id="57"/>
-			</specials>
+			<attack id="112"/>
+			<attack id="129"/>
+			<attack id="28"/>
+			<attack id="39"/>
+			<attack id="57"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="54" generation="1">
@@ -1174,15 +962,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="122"/>
-				<basic id="125"/>
-			</basics>
-			<specials>
-				<special id="11"/>
-				<special id="33"/>
-				<special id="10"/>
-			</specials>
+			<attack id="122"/>
+			<attack id="125"/>
+			<attack id="11"/>
+			<attack id="33"/>
+			<attack id="10"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="55" generation="1">
@@ -1195,15 +979,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="122"/>
-				<basic id="126"/>
-			</basics>
-			<specials>
-				<special id="74"/>
-				<special id="73"/>
-				<special id="19"/>
-			</specials>
+			<attack id="122"/>
+			<attack id="126"/>
+			<attack id="74"/>
+			<attack id="73"/>
+			<attack id="19"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="56" generation="1">
@@ -1217,15 +997,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="100"/>
-				<basic id="112"/>
-			</basics>
-			<specials>
-				<special id="10"/>
-				<special id="31"/>
-				<special id="84"/>
-			</specials>
+			<attack id="100"/>
+			<attack id="112"/>
+			<attack id="10"/>
+			<attack id="31"/>
+			<attack id="84"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="57" generation="1">
@@ -1238,15 +1014,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="99"/>
-				<basic id="100"/>
-			</basics>
-			<specials>
-				<special id="10"/>
-				<special id="31"/>
-				<special id="28"/>
-			</specials>
+			<attack id="99"/>
+			<attack id="100"/>
+			<attack id="10"/>
+			<attack id="31"/>
+			<attack id="28"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="58" generation="1">
@@ -1260,15 +1032,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="101"/>
-				<basic id="94"/>
-			</basics>
-			<specials>
-				<special id="6"/>
-				<special id="89"/>
-				<special id="8"/>
-			</specials>
+			<attack id="101"/>
+			<attack id="94"/>
+			<attack id="6"/>
+			<attack id="89"/>
+			<attack id="8"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="59" generation="1">
@@ -1281,15 +1049,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="131"/>
-				<basic id="94"/>
-			</basics>
-			<specials>
-				<special id="69"/>
-				<special id="8"/>
-				<special id="63"/>
-			</specials>
+			<attack id="131"/>
+			<attack id="94"/>
+			<attack id="69"/>
+			<attack id="8"/>
+			<attack id="63"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="60" generation="1">
@@ -1303,15 +1067,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="128"/>
-				<basic id="108"/>
-			</basics>
-			<specials>
-				<special id="29"/>
-				<special id="64"/>
-				<special id="89"/>
-			</specials>
+			<attack id="128"/>
+			<attack id="108"/>
+			<attack id="29"/>
+			<attack id="64"/>
+			<attack id="89"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="61" generation="1">
@@ -1325,15 +1085,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="128"/>
-				<basic id="108"/>
-			</basics>
-			<specials>
-				<special id="72"/>
-				<special id="64"/>
-				<special id="29"/>
-			</specials>
+			<attack id="128"/>
+			<attack id="108"/>
+			<attack id="72"/>
+			<attack id="64"/>
+			<attack id="29"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="62" generation="1">
@@ -1347,15 +1103,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="128"/>
-				<basic id="108"/>
-			</basics>
-			<specials>
-				<special id="73"/>
-				<special id="30"/>
-				<special id="14"/>
-			</specials>
+			<attack id="128"/>
+			<attack id="108"/>
+			<attack id="73"/>
+			<attack id="30"/>
+			<attack id="14"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="63" generation="1">
@@ -1369,14 +1121,10 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="125"/>
-			</basics>
-			<specials>
-				<special id="35"/>
-				<special id="65"/>
-				<special id="43"/>
-			</specials>
+			<attack id="125"/>
+			<attack id="35"/>
+			<attack id="65"/>
+			<attack id="43"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="64" generation="1">
@@ -1390,15 +1138,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="118"/>
-				<basic id="126"/>
-			</basics>
-			<specials>
-				<special id="11"/>
-				<special id="55"/>
-				<special id="43"/>
-			</specials>
+			<attack id="118"/>
+			<attack id="126"/>
+			<attack id="11"/>
+			<attack id="55"/>
+			<attack id="43"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="65" generation="1">
@@ -1411,15 +1155,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="118"/>
-				<basic id="126"/>
-			</basics>
-			<specials>
-				<special id="74"/>
-				<special id="55"/>
-				<special id="43"/>
-			</specials>
+			<attack id="118"/>
+			<attack id="126"/>
+			<attack id="74"/>
+			<attack id="55"/>
+			<attack id="43"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="66" generation="1">
@@ -1433,15 +1173,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="99"/>
-				<basic id="100"/>
-			</basics>
-			<specials>
-				<special id="31"/>
-				<special id="84"/>
-				<special id="10"/>
-			</specials>
+			<attack id="99"/>
+			<attack id="100"/>
+			<attack id="31"/>
+			<attack id="84"/>
+			<attack id="10"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="67" generation="1">
@@ -1455,15 +1191,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="99"/>
-				<basic id="100"/>
-			</basics>
-			<specials>
-				<special id="30"/>
-				<special id="84"/>
-				<special id="10"/>
-			</specials>
+			<attack id="99"/>
+			<attack id="100"/>
+			<attack id="30"/>
+			<attack id="84"/>
+			<attack id="10"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="68" generation="1">
@@ -1476,15 +1208,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="121"/>
-				<basic id="100"/>
-			</basics>
-			<specials>
-				<special id="13"/>
-				<special id="30"/>
-				<special id="10"/>
-			</specials>
+			<attack id="121"/>
+			<attack id="100"/>
+			<attack id="13"/>
+			<attack id="30"/>
+			<attack id="10"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="69" generation="1">
@@ -1499,15 +1227,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="106"/>
-				<basic id="117"/>
-			</basics>
-			<specials>
-				<special id="81"/>
-				<special id="59"/>
-				<special id="1"/>
-			</specials>
+			<attack id="106"/>
+			<attack id="117"/>
+			<attack id="81"/>
+			<attack id="59"/>
+			<attack id="1"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="70" generation="1">
@@ -1522,15 +1246,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="107"/>
-				<basic id="117"/>
-			</basics>
-			<specials>
-				<special id="81"/>
-				<special id="59"/>
-				<special id="34"/>
-			</specials>
+			<attack id="107"/>
+			<attack id="117"/>
+			<attack id="81"/>
+			<attack id="59"/>
+			<attack id="34"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="71" generation="1">
@@ -1544,15 +1264,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="107"/>
-				<basic id="117"/>
-			</basics>
-			<specials>
-				<special id="80"/>
-				<special id="59"/>
-				<special id="79"/>
-			</specials>
+			<attack id="107"/>
+			<attack id="117"/>
+			<attack id="80"/>
+			<attack id="59"/>
+			<attack id="79"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="72" generation="1">
@@ -1567,15 +1283,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="128"/>
-				<basic id="127"/>
-			</basics>
-			<specials>
-				<special id="29"/>
-				<special id="71"/>
-				<special id="1"/>
-			</specials>
+			<attack id="128"/>
+			<attack id="127"/>
+			<attack id="29"/>
+			<attack id="71"/>
+			<attack id="1"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="73" generation="1">
@@ -1589,15 +1301,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="117"/>
-				<basic id="116"/>
-			</basics>
-			<specials>
-				<special id="73"/>
-				<special id="60"/>
-				<special id="20"/>
-			</specials>
+			<attack id="117"/>
+			<attack id="116"/>
+			<attack id="73"/>
+			<attack id="60"/>
+			<attack id="20"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="74" generation="1">
@@ -1612,15 +1320,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="119"/>
-				<basic id="113"/>
-			</basics>
-			<specials>
-				<special id="38"/>
-				<special id="37"/>
-				<special id="9"/>
-			</specials>
+			<attack id="119"/>
+			<attack id="113"/>
+			<attack id="38"/>
+			<attack id="37"/>
+			<attack id="9"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="75" generation="1">
@@ -1635,15 +1339,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="119"/>
-				<basic id="108"/>
-			</basics>
-			<specials>
-				<special id="9"/>
-				<special id="13"/>
-				<special id="38"/>
-			</specials>
+			<attack id="119"/>
+			<attack id="108"/>
+			<attack id="9"/>
+			<attack id="13"/>
+			<attack id="38"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="76" generation="1">
@@ -1657,15 +1357,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="119"/>
-				<basic id="108"/>
-			</basics>
-			<specials>
-				<special id="13"/>
-				<special id="36"/>
-				<special id="12"/>
-			</specials>
+			<attack id="119"/>
+			<attack id="108"/>
+			<attack id="13"/>
+			<attack id="36"/>
+			<attack id="12"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="77" generation="1">
@@ -1679,15 +1375,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="113"/>
-				<basic id="101"/>
-			</basics>
-			<specials>
-				<special id="67"/>
-				<special id="6"/>
-				<special id="69"/>
-			</specials>
+			<attack id="113"/>
+			<attack id="101"/>
+			<attack id="67"/>
+			<attack id="6"/>
+			<attack id="69"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="78" generation="1">
@@ -1700,15 +1392,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="99"/>
-				<basic id="101"/>
-			</basics>
-			<specials>
-				<special id="69"/>
-				<special id="23"/>
-				<special id="21"/>
-			</specials>
+			<attack id="99"/>
+			<attack id="101"/>
+			<attack id="69"/>
+			<attack id="23"/>
+			<attack id="21"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="79" generation="1">
@@ -1723,15 +1411,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="122"/>
-				<basic id="126"/>
-			</basics>
-			<specials>
-				<special id="71"/>
-				<special id="35"/>
-				<special id="74"/>
-			</specials>
+			<attack id="122"/>
+			<attack id="126"/>
+			<attack id="71"/>
+			<attack id="35"/>
+			<attack id="74"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="80" generation="1">
@@ -1746,15 +1430,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="122"/>
-				<basic id="126"/>
-			</basics>
-			<specials>
-				<special id="71"/>
-				<special id="74"/>
-				<special id="19"/>
-			</specials>
+			<attack id="122"/>
+			<attack id="126"/>
+			<attack id="71"/>
+			<attack id="74"/>
+			<attack id="19"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="81" generation="1">
@@ -1769,15 +1449,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="98"/>
-				<basic id="97"/>
-			</basics>
-			<specials>
-				<special id="16"/>
-				<special id="44"/>
-				<special id="49"/>
-			</specials>
+			<attack id="98"/>
+			<attack id="97"/>
+			<attack id="16"/>
+			<attack id="44"/>
+			<attack id="49"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="82" generation="1">
@@ -1791,15 +1467,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="98"/>
-				<basic id="97"/>
-			</basics>
-			<specials>
-				<special id="16"/>
-				<special id="44"/>
-				<special id="17"/>
-			</specials>
+			<attack id="98"/>
+			<attack id="97"/>
+			<attack id="16"/>
+			<attack id="44"/>
+			<attack id="17"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="83" generation="1">
@@ -1813,15 +1485,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="115"/>
-				<basic id="92"/>
-			</basics>
-			<specials>
-				<special id="22"/>
-				<special id="82"/>
-				<special id="80"/>
-			</specials>
+			<attack id="115"/>
+			<attack id="92"/>
+			<attack id="22"/>
+			<attack id="82"/>
+			<attack id="80"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="84" generation="1">
@@ -1836,15 +1504,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="103"/>
-				<basic id="111"/>
-			</basics>
-			<specials>
-				<special id="18"/>
-				<special id="22"/>
-				<special id="85"/>
-			</specials>
+			<attack id="103"/>
+			<attack id="111"/>
+			<attack id="18"/>
+			<attack id="22"/>
+			<attack id="85"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="85" generation="1">
@@ -1858,15 +1522,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="129"/>
-				<basic id="130"/>
-			</basics>
-			<specials>
-				<special id="18"/>
-				<special id="22"/>
-				<special id="82"/>
-			</specials>
+			<attack id="129"/>
+			<attack id="130"/>
+			<attack id="18"/>
+			<attack id="22"/>
+			<attack id="82"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="86" generation="1">
@@ -1880,15 +1540,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="109"/>
-				<basic id="122"/>
-			</basics>
-			<specials>
-				<special id="32"/>
-				<special id="76"/>
-				<special id="33"/>
-			</specials>
+			<attack id="109"/>
+			<attack id="122"/>
+			<attack id="32"/>
+			<attack id="76"/>
+			<attack id="33"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="87" generation="1">
@@ -1902,15 +1558,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="110"/>
-				<basic id="109"/>
-			</basics>
-			<specials>
-				<special id="76"/>
-				<special id="32"/>
-				<special id="20"/>
-			</specials>
+			<attack id="110"/>
+			<attack id="109"/>
+			<attack id="76"/>
+			<attack id="32"/>
+			<attack id="20"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="88" generation="1">
@@ -1924,15 +1576,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="117"/>
-				<basic id="124"/>
-			</basics>
-			<specials>
-				<special id="4"/>
-				<special id="64"/>
-				<special id="59"/>
-			</specials>
+			<attack id="117"/>
+			<attack id="124"/>
+			<attack id="4"/>
+			<attack id="64"/>
+			<attack id="59"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="89" generation="1">
@@ -1945,15 +1593,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="117"/>
-				<basic id="116"/>
-			</basics>
-			<specials>
-				<special id="3"/>
-				<special id="61"/>
-				<special id="60"/>
-			</specials>
+			<attack id="117"/>
+			<attack id="116"/>
+			<attack id="3"/>
+			<attack id="61"/>
+			<attack id="60"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="90" generation="1">
@@ -1967,15 +1611,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="109"/>
-				<basic id="113"/>
-			</basics>
-			<specials>
-				<special id="29"/>
-				<special id="71"/>
-				<special id="76"/>
-			</specials>
+			<attack id="109"/>
+			<attack id="113"/>
+			<attack id="29"/>
+			<attack id="71"/>
+			<attack id="76"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="91" generation="1">
@@ -1989,15 +1629,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="110"/>
-				<basic id="109"/>
-			</basics>
-			<specials>
-				<special id="76"/>
-				<special id="73"/>
-				<special id="20"/>
-			</specials>
+			<attack id="110"/>
+			<attack id="109"/>
+			<attack id="76"/>
+			<attack id="73"/>
+			<attack id="20"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="92" generation="1">
@@ -2012,15 +1648,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="104"/>
-				<basic id="95"/>
-			</basics>
-			<specials>
-				<special id="42"/>
-				<special id="3"/>
-				<special id="59"/>
-			</specials>
+			<attack id="104"/>
+			<attack id="95"/>
+			<attack id="42"/>
+			<attack id="3"/>
+			<attack id="59"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="93" generation="1">
@@ -2035,15 +1667,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="105"/>
-				<basic id="104"/>
-			</basics>
-			<specials>
-				<special id="43"/>
-				<special id="3"/>
-				<special id="59"/>
-			</specials>
+			<attack id="105"/>
+			<attack id="104"/>
+			<attack id="43"/>
+			<attack id="3"/>
+			<attack id="59"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="94" generation="1">
@@ -2057,15 +1685,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="95"/>
-				<basic id="105"/>
-			</basics>
-			<specials>
-				<special id="43"/>
-				<special id="3"/>
-				<special id="60"/>
-			</specials>
+			<attack id="95"/>
+			<attack id="105"/>
+			<attack id="43"/>
+			<attack id="3"/>
+			<attack id="60"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="95" generation="1">
@@ -2080,15 +1704,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="119"/>
-				<basic id="113"/>
-			</basics>
-			<specials>
-				<special id="38"/>
-				<special id="13"/>
-				<special id="45"/>
-			</specials>
+			<attack id="119"/>
+			<attack id="113"/>
+			<attack id="38"/>
+			<attack id="13"/>
+			<attack id="45"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="96" generation="1">
@@ -2102,15 +1722,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="114"/>
-				<basic id="126"/>
-			</basics>
-			<specials>
-				<special id="11"/>
-				<special id="35"/>
-				<special id="74"/>
-			</specials>
+			<attack id="114"/>
+			<attack id="126"/>
+			<attack id="11"/>
+			<attack id="35"/>
+			<attack id="74"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="97" generation="1">
@@ -2123,15 +1739,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="125"/>
-				<basic id="126"/>
-			</basics>
-			<specials>
-				<special id="35"/>
-				<special id="74"/>
-				<special id="43"/>
-			</specials>
+			<attack id="125"/>
+			<attack id="126"/>
+			<attack id="35"/>
+			<attack id="74"/>
+			<attack id="43"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="98" generation="1">
@@ -2145,15 +1757,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="128"/>
-				<basic id="108"/>
-			</basics>
-			<specials>
-				<special id="5"/>
-				<special id="29"/>
-				<special id="71"/>
-			</specials>
+			<attack id="128"/>
+			<attack id="108"/>
+			<attack id="5"/>
+			<attack id="29"/>
+			<attack id="71"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="99" generation="1">
@@ -2166,15 +1774,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="120"/>
-				<basic id="108"/>
-			</basics>
-			<specials>
-				<special id="5"/>
-				<special id="66"/>
-				<special id="71"/>
-			</specials>
+			<attack id="120"/>
+			<attack id="108"/>
+			<attack id="5"/>
+			<attack id="66"/>
+			<attack id="71"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="100" generation="1">
@@ -2188,15 +1792,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="98"/>
-				<basic id="113"/>
-			</basics>
-			<specials>
-				<special id="16"/>
-				<special id="49"/>
-				<special id="65"/>
-			</specials>
+			<attack id="98"/>
+			<attack id="113"/>
+			<attack id="16"/>
+			<attack id="49"/>
+			<attack id="65"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="101" generation="1">
@@ -2209,15 +1809,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="98"/>
-				<basic id="113"/>
-			</basics>
-			<specials>
-				<special id="16"/>
-				<special id="49"/>
-				<special id="2"/>
-			</specials>
+			<attack id="98"/>
+			<attack id="113"/>
+			<attack id="16"/>
+			<attack id="49"/>
+			<attack id="2"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="102" generation="1">
@@ -2232,14 +1828,10 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="126"/>
-			</basics>
-			<specials>
-				<special id="34"/>
-				<special id="74"/>
-				<special id="36"/>
-			</specials>
+			<attack id="126"/>
+			<attack id="34"/>
+			<attack id="74"/>
+			<attack id="36"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="103" generation="1">
@@ -2253,15 +1845,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="126"/>
-				<basic id="125"/>
-			</basics>
-			<specials>
-				<special id="34"/>
-				<special id="74"/>
-				<special id="79"/>
-			</specials>
+			<attack id="126"/>
+			<attack id="125"/>
+			<attack id="34"/>
+			<attack id="74"/>
+			<attack id="79"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="104" generation="1">
@@ -2275,15 +1863,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="124"/>
-				<basic id="132"/>
-			</basics>
-			<specials>
-				<special id="62"/>
-				<special id="9"/>
-				<special id="63"/>
-			</specials>
+			<attack id="124"/>
+			<attack id="132"/>
+			<attack id="62"/>
+			<attack id="9"/>
+			<attack id="63"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="105" generation="1">
@@ -2296,15 +1880,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="124"/>
-				<basic id="132"/>
-			</basics>
-			<specials>
-				<special id="62"/>
-				<special id="9"/>
-				<special id="12"/>
-			</specials>
+			<attack id="124"/>
+			<attack id="132"/>
+			<attack id="62"/>
+			<attack id="9"/>
+			<attack id="12"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="106" generation="1">
@@ -2318,15 +1898,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="99"/>
-				<basic id="132"/>
-			</basics>
-			<specials>
-				<special id="87"/>
-				<special id="31"/>
-				<special id="13"/>
-			</specials>
+			<attack id="99"/>
+			<attack id="132"/>
+			<attack id="87"/>
+			<attack id="31"/>
+			<attack id="13"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="107" generation="1">
@@ -2340,16 +1916,12 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="121"/>
-				<basic id="132"/>
-			</basics>
-			<specials>
-				<special id="78"/>
-				<special id="14"/>
-				<special id="47"/>
-				<special id="84"/>
-			</specials>
+			<attack id="121"/>
+			<attack id="132"/>
+			<attack id="78"/>
+			<attack id="14"/>
+			<attack id="47"/>
+			<attack id="84"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="108" generation="1">
@@ -2363,15 +1935,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="104"/>
-				<basic id="125"/>
-			</basics>
-			<specials>
-				<special id="2"/>
-				<special id="87"/>
-				<special id="81"/>
-			</specials>
+			<attack id="104"/>
+			<attack id="125"/>
+			<attack id="2"/>
+			<attack id="87"/>
+			<attack id="81"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="109" generation="1">
@@ -2385,15 +1953,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="117"/>
-				<basic id="113"/>
-			</basics>
-			<specials>
-				<special id="4"/>
-				<special id="59"/>
-				<special id="3"/>
-			</specials>
+			<attack id="117"/>
+			<attack id="113"/>
+			<attack id="4"/>
+			<attack id="59"/>
+			<attack id="3"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="110" generation="1">
@@ -2406,15 +1970,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="117"/>
-				<basic id="113"/>
-			</basics>
-			<specials>
-				<special id="59"/>
-				<special id="43"/>
-				<special id="3"/>
-			</specials>
+			<attack id="117"/>
+			<attack id="113"/>
+			<attack id="59"/>
+			<attack id="43"/>
+			<attack id="3"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="111" generation="1">
@@ -2429,15 +1989,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="124"/>
-				<basic id="132"/>
-			</basics>
-			<specials>
-				<special id="63"/>
-				<special id="86"/>
-				<special id="87"/>
-			</specials>
+			<attack id="124"/>
+			<attack id="132"/>
+			<attack id="63"/>
+			<attack id="86"/>
+			<attack id="87"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="112" generation="1">
@@ -2452,15 +2008,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="124"/>
-				<basic id="132"/>
-			</basics>
-			<specials>
-				<special id="7"/>
-				<special id="12"/>
-				<special id="13"/>
-			</specials>
+			<attack id="124"/>
+			<attack id="132"/>
+			<attack id="7"/>
+			<attack id="12"/>
+			<attack id="13"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="113" generation="1">
@@ -2474,15 +2026,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="114"/>
-				<basic id="125"/>
-			</basics>
-			<specials>
-				<special id="74"/>
-				<special id="11"/>
-				<special id="55"/>
-			</specials>
+			<attack id="114"/>
+			<attack id="125"/>
+			<attack id="74"/>
+			<attack id="11"/>
+			<attack id="55"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="114" generation="1">
@@ -2496,14 +2044,10 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="106"/>
-			</basics>
-			<specials>
-				<special id="81"/>
-				<special id="59"/>
-				<special id="79"/>
-			</specials>
+			<attack id="106"/>
+			<attack id="81"/>
+			<attack id="59"/>
+			<attack id="79"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="115" generation="1">
@@ -2516,15 +2060,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="124"/>
-				<basic id="99"/>
-			</basics>
-			<specials>
-				<special id="84"/>
-				<special id="12"/>
-				<special id="87"/>
-			</specials>
+			<attack id="124"/>
+			<attack id="99"/>
+			<attack id="84"/>
+			<attack id="12"/>
+			<attack id="87"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="116" generation="1">
@@ -2538,15 +2078,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="122"/>
-				<basic id="128"/>
-			</basics>
-			<specials>
-				<special id="29"/>
-				<special id="51"/>
-				<special id="17"/>
-			</specials>
+			<attack id="122"/>
+			<attack id="128"/>
+			<attack id="29"/>
+			<attack id="51"/>
+			<attack id="17"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="117" generation="1">
@@ -2560,15 +2096,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="122"/>
-				<basic id="96"/>
-			</basics>
-			<specials>
-				<special id="20"/>
-				<special id="51"/>
-				<special id="73"/>
-			</specials>
+			<attack id="122"/>
+			<attack id="96"/>
+			<attack id="20"/>
+			<attack id="51"/>
+			<attack id="73"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="118" generation="1">
@@ -2582,15 +2114,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="103"/>
-				<basic id="108"/>
-			</basics>
-			<specials>
-				<special id="71"/>
-				<special id="86"/>
-				<special id="33"/>
-			</specials>
+			<attack id="103"/>
+			<attack id="108"/>
+			<attack id="71"/>
+			<attack id="86"/>
+			<attack id="33"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="119" generation="1">
@@ -2603,15 +2131,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="103"/>
-				<basic id="116"/>
-			</basics>
-			<specials>
-				<special id="76"/>
-				<special id="23"/>
-				<special id="7"/>
-			</specials>
+			<attack id="103"/>
+			<attack id="116"/>
+			<attack id="76"/>
+			<attack id="23"/>
+			<attack id="7"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="120" generation="1">
@@ -2625,15 +2149,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="111"/>
-				<basic id="122"/>
-			</basics>
-			<specials>
-				<special id="85"/>
-				<special id="29"/>
-				<special id="39"/>
-			</specials>
+			<attack id="111"/>
+			<attack id="122"/>
+			<attack id="85"/>
+			<attack id="29"/>
+			<attack id="39"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="121" generation="1">
@@ -2647,15 +2167,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="111"/>
-				<basic id="122"/>
-			</basics>
-			<specials>
-				<special id="73"/>
-				<special id="39"/>
-				<special id="11"/>
-			</specials>
+			<attack id="111"/>
+			<attack id="122"/>
+			<attack id="73"/>
+			<attack id="39"/>
+			<attack id="11"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="122" generation="1">
@@ -2669,15 +2185,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="126"/>
-				<basic id="125"/>
-			</basics>
-			<specials>
-				<special id="11"/>
-				<special id="74"/>
-				<special id="43"/>
-			</specials>
+			<attack id="126"/>
+			<attack id="125"/>
+			<attack id="11"/>
+			<attack id="74"/>
+			<attack id="43"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="123" generation="1">
@@ -2692,15 +2204,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="92"/>
-				<basic id="130"/>
-			</basics>
-			<specials>
-				<special id="28"/>
-				<special id="66"/>
-				<special id="26"/>
-			</specials>
+			<attack id="92"/>
+			<attack id="130"/>
+			<attack id="28"/>
+			<attack id="66"/>
+			<attack id="26"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="124" generation="1">
@@ -2714,15 +2222,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="110"/>
-				<basic id="114"/>
-			</basics>
-			<specials>
-				<special id="54"/>
-				<special id="14"/>
-				<special id="35"/>
-			</specials>
+			<attack id="110"/>
+			<attack id="114"/>
+			<attack id="54"/>
+			<attack id="14"/>
+			<attack id="35"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="125" generation="1">
@@ -2736,15 +2240,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="97"/>
-				<basic id="99"/>
-			</basics>
-			<specials>
-				<special id="47"/>
-				<special id="49"/>
-				<special id="48"/>
-			</specials>
+			<attack id="97"/>
+			<attack id="99"/>
+			<attack id="47"/>
+			<attack id="49"/>
+			<attack id="48"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="126" generation="1">
@@ -2758,15 +2258,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="101"/>
-				<basic id="100"/>
-			</basics>
-			<specials>
-				<special id="69"/>
-				<special id="78"/>
-				<special id="8"/>
-			</specials>
+			<attack id="101"/>
+			<attack id="100"/>
+			<attack id="69"/>
+			<attack id="78"/>
+			<attack id="8"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="127" generation="1">
@@ -2779,15 +2275,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="132"/>
-				<basic id="92"/>
-			</basics>
-			<specials>
-				<special id="5"/>
-				<special id="66"/>
-				<special id="30"/>
-			</specials>
+			<attack id="132"/>
+			<attack id="92"/>
+			<attack id="5"/>
+			<attack id="66"/>
+			<attack id="30"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="128" generation="1">
@@ -2800,15 +2292,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="113"/>
-				<basic id="125"/>
-			</basics>
-			<specials>
-				<special id="86"/>
-				<special id="45"/>
-				<special id="12"/>
-			</specials>
+			<attack id="113"/>
+			<attack id="125"/>
+			<attack id="86"/>
+			<attack id="45"/>
+			<attack id="12"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="129" generation="1">
@@ -2822,12 +2310,8 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="123"/>
-			</basics>
-			<specials>
-				<special id="91"/>
-			</specials>
+			<attack id="123"/>
+			<attack id="91"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="130" generation="1">
@@ -2841,15 +2325,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="96"/>
-				<basic id="94"/>
-			</basics>
-			<specials>
-				<special id="73"/>
-				<special id="50"/>
-				<special id="51"/>
-			</specials>
+			<attack id="96"/>
+			<attack id="94"/>
+			<attack id="73"/>
+			<attack id="50"/>
+			<attack id="51"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="131" generation="1">
@@ -2863,15 +2343,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="110"/>
-				<basic id="109"/>
-			</basics>
-			<specials>
-				<special id="51"/>
-				<special id="19"/>
-				<special id="20"/>
-			</specials>
+			<attack id="110"/>
+			<attack id="109"/>
+			<attack id="51"/>
+			<attack id="19"/>
+			<attack id="20"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="132" generation="1">
@@ -2884,12 +2360,8 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="114"/>
-			</basics>
-			<specials>
-				<special id="91"/>
-			</specials>
+			<attack id="114"/>
+			<attack id="91"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="133" generation="1">
@@ -2905,15 +2377,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="111"/>
-				<basic id="113"/>
-			</basics>
-			<specials>
-				<special id="9"/>
-				<special id="85"/>
-				<special id="89"/>
-			</specials>
+			<attack id="111"/>
+			<attack id="113"/>
+			<attack id="9"/>
+			<attack id="85"/>
+			<attack id="89"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="134" generation="1">
@@ -2926,14 +2394,10 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="122"/>
-			</basics>
-			<specials>
-				<special id="71"/>
-				<special id="73"/>
-				<special id="33"/>
-			</specials>
+			<attack id="122"/>
+			<attack id="71"/>
+			<attack id="73"/>
+			<attack id="33"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="135" generation="1">
@@ -2945,14 +2409,10 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="97"/>
-			</basics>
-			<specials>
-				<special id="16"/>
-				<special id="49"/>
-				<special id="48"/>
-			</specials>
+			<attack id="97"/>
+			<attack id="16"/>
+			<attack id="49"/>
+			<attack id="48"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="136" generation="1">
@@ -2965,14 +2425,10 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="101"/>
-			</basics>
-			<specials>
-				<special id="69"/>
-				<special id="8"/>
-				<special id="21"/>
-			</specials>
+			<attack id="101"/>
+			<attack id="69"/>
+			<attack id="8"/>
+			<attack id="21"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="137" generation="1">
@@ -2986,15 +2442,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="111"/>
-				<basic id="113"/>
-			</basics>
-			<specials>
-				<special id="11"/>
-				<special id="65"/>
-				<special id="16"/>
-			</specials>
+			<attack id="111"/>
+			<attack id="113"/>
+			<attack id="11"/>
+			<attack id="65"/>
+			<attack id="16"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="138" generation="1">
@@ -3009,15 +2461,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="122"/>
-				<basic id="108"/>
-			</basics>
-			<specials>
-				<special id="36"/>
-				<special id="70"/>
-				<special id="37"/>
-			</specials>
+			<attack id="122"/>
+			<attack id="108"/>
+			<attack id="36"/>
+			<attack id="70"/>
+			<attack id="37"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="139" generation="1">
@@ -3031,15 +2479,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="119"/>
-				<basic id="122"/>
-			</basics>
-			<specials>
-				<special id="36"/>
-				<special id="73"/>
-				<special id="38"/>
-			</specials>
+			<attack id="119"/>
+			<attack id="122"/>
+			<attack id="36"/>
+			<attack id="73"/>
+			<attack id="38"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="140" generation="1">
@@ -3054,15 +2498,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="112"/>
-				<basic id="108"/>
-			</basics>
-			<specials>
-				<special id="36"/>
-				<special id="32"/>
-				<special id="37"/>
-			</specials>
+			<attack id="112"/>
+			<attack id="108"/>
+			<attack id="36"/>
+			<attack id="32"/>
+			<attack id="37"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="141" generation="1">
@@ -3076,15 +2516,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="108"/>
-				<basic id="92"/>
-			</basics>
-			<specials>
-				<special id="36"/>
-				<special id="71"/>
-				<special id="13"/>
-			</specials>
+			<attack id="108"/>
+			<attack id="92"/>
+			<attack id="36"/>
+			<attack id="71"/>
+			<attack id="13"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="142" generation="1">
@@ -3098,15 +2534,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="130"/>
-				<basic id="94"/>
-			</basics>
-			<specials>
-				<special id="36"/>
-				<special id="45"/>
-				<special id="2"/>
-			</specials>
+			<attack id="130"/>
+			<attack id="94"/>
+			<attack id="36"/>
+			<attack id="45"/>
+			<attack id="2"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="143" generation="1">
@@ -3119,15 +2551,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="125"/>
-				<basic id="104"/>
-			</basics>
-			<specials>
-				<special id="89"/>
-				<special id="2"/>
-				<special id="12"/>
-			</specials>
+			<attack id="125"/>
+			<attack id="104"/>
+			<attack id="89"/>
+			<attack id="2"/>
+			<attack id="12"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="144" generation="1">
@@ -3141,14 +2569,10 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="110"/>
-			</basics>
-			<specials>
-				<special id="19"/>
-				<special id="76"/>
-				<special id="20"/>
-			</specials>
+			<attack id="110"/>
+			<attack id="19"/>
+			<attack id="76"/>
+			<attack id="20"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="145" generation="1">
@@ -3162,14 +2586,10 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="97"/>
-			</basics>
-			<specials>
-				<special id="16"/>
-				<special id="49"/>
-				<special id="48"/>
-			</specials>
+			<attack id="97"/>
+			<attack id="16"/>
+			<attack id="49"/>
+			<attack id="48"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="146" generation="1">
@@ -3183,14 +2603,10 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="101"/>
-			</basics>
-			<specials>
-				<special id="69"/>
-				<special id="21"/>
-				<special id="8"/>
-			</specials>
+			<attack id="101"/>
+			<attack id="69"/>
+			<attack id="21"/>
+			<attack id="8"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="147" generation="1">
@@ -3204,14 +2620,10 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="96"/>
-			</basics>
-			<specials>
-				<special id="1"/>
-				<special id="50"/>
-				<special id="33"/>
-			</specials>
+			<attack id="96"/>
+			<attack id="1"/>
+			<attack id="50"/>
+			<attack id="33"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="148" generation="1">
@@ -3225,14 +2637,10 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="96"/>
-			</basics>
-			<specials>
-				<special id="1"/>
-				<special id="33"/>
-				<special id="51"/>
-			</specials>
+			<attack id="96"/>
+			<attack id="1"/>
+			<attack id="33"/>
+			<attack id="51"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="149" generation="1">
@@ -3246,15 +2654,11 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="96"/>
-				<basic id="130"/>
-			</basics>
-			<specials>
-				<special id="51"/>
-				<special id="2"/>
-				<special id="52"/>
-			</specials>
+			<attack id="96"/>
+			<attack id="130"/>
+			<attack id="51"/>
+			<attack id="2"/>
+			<attack id="52"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="150" generation="1">
@@ -3267,15 +2671,10 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="118"/>
-				<basic id="126"/>
-			</basics>
-			<specials>
-				<special id="74"/>
-				<special id="43"/>
-				<special id="2"/>
-			</specials>
+			<attack id="118"/>
+			<attack id="74"/>
+			<attack id="43"/>
+			<attack id="2"/>
 		</attacks>
 	</pokemon>
 	<pokemon id="151" generation="1">
@@ -3288,20 +2687,16 @@
 			</shape>
 		</shapes>
 		<attacks>
-			<basics>
-				<basic id="114"/>
-			</basics>
-			<specials>
-				<special id="83"/>
-				<special id="12"/>
-				<special id="74"/>
-				<special id="51"/>
-				<special id="48"/>
-				<special id="56"/>
-				<special id="69"/>
-				<special id="79"/>
-				<special id="2"/>
-			</specials>
+			<attack id="114"/>
+			<attack id="83"/>
+			<attack id="12"/>
+			<attack id="74"/>
+			<attack id="51"/>
+			<attack id="48"/>
+			<attack id="56"/>
+			<attack id="69"/>
+			<attack id="79"/>
+			<attack id="2"/>
 		</attacks>
 	</pokemon>
 </DB>
