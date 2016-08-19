@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DB nbPokemons="721" xmlns:android="http://schemas.android.com/apk/res/android">
+<pokemons nbPokemons="151" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="pokemons.xsd">
 	<pokemon id="1" generation="1">
 		<evolutions>
 			<evolution id="2" />
@@ -2699,4 +2699,4 @@
 			<attack id="2"/>
 		</attacks>
 	</pokemon>
-</DB>
+</pokemons>
