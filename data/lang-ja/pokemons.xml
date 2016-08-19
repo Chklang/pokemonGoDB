@@ -109,8 +109,7 @@
 	<pokemon id="107">エビワラー (Ebiwarā) Ebiwalars</pokemon>
 	<pokemon id="108">ベロリンガ Beroringa</pokemon>
 	<pokemon id="109">ドガース (Dogāsu) Dogars</pokemon>
-	<pokemon id="110">マタドガス (Matadogasu)
-  Matadogas</pokemon>
+	<pokemon id="110">マタドガス (Matadogasu) Matadogas</pokemon>
 	<pokemon id="111">サイホーン (Saihōn) Sihorn</pokemon>
 	<pokemon id="112">サイドン (Saidon) Sidon</pokemon>
 	<pokemon id="113">ラッキー (Rakkī) Lucky</pokemon>
@@ -152,180 +151,106 @@
 	<pokemon id="149">カイリｭー (Kairyū) Kairyu</pokemon>
 	<pokemon id="150">ミｭウツー (Myūtsu) Mewtwo</pokemon>
 	<pokemon id="151">ミｭウ (Myū) Mew</pokemon>
-	<pokemon id="152">チコリータ (<font
-  class="font12">Chikorīta<font class="font10">) Chicorita</pokemon>
-	<pokemon id="153">ベイリーフ (<font
-  class="font12">Beirīfu<font class="font10">) Bayleaf</pokemon>
-	<pokemon id="154">メガニウム (<font
-  class="font12">Meganiumu<font class="font10">) Meganium</pokemon>
+	<pokemon id="152">チコリータ (Chikorīta) Chicorita</pokemon>
+	<pokemon id="153">ベイリーフ (Beirīfu) Bayleaf</pokemon>
+	<pokemon id="154">メガニウム (Meganiumu) Meganium</pokemon>
 	<pokemon id="155">ヒノアラシ Hinoarashi</pokemon>
-	<pokemon id="156">マグマラシ (<font
-  class="font12">Magumarashi<font class="font10">) Magmarashi</pokemon>
-	<pokemon id="157">バクフーン (<font
-  class="font12">Bakufūn<font class="font10">) Bakphoon</pokemon>
+	<pokemon id="156">マグマラシ (Magumarashi) Magmarashi</pokemon>
+	<pokemon id="157">バクフーン (Bakufūn) Bakphoon</pokemon>
 	<pokemon id="158">ワニノコ Waninoko</pokemon>
-	<pokemon id="159">アリゲイツ (<font
-  class="font12">Arigeitsu<font class="font10">) Alligates</pokemon>
-	<pokemon id="160">オーダイル (<font
-  class="font12">Ōdairu<font class="font10">) Ordile</pokemon>
+	<pokemon id="159">アリゲイツ (Arigeitsu) Alligates</pokemon>
+	<pokemon id="160">オーダイル (Ōdairu) Ordile</pokemon>
 	<pokemon id="161">オタチ Otachi</pokemon>
-	<pokemon id="162">オオタチ (<font
-  class="font12">Ōtachi<font class="font10">) Ootachi</pokemon>
-	<pokemon id="163">ホーホー (<font
-  class="font12">Hōhō<font class="font10">) Hoho</pokemon>
+	<pokemon id="162">オオタチ (Ōtachi) Ootachi</pokemon>
+	<pokemon id="163">ホーホー (Hōhō) Hoho</pokemon>
 	<pokemon id="164">ヨルノズク Yorunozuku</pokemon>
 	<pokemon id="165">レディバ Rediba</pokemon>
 	<pokemon id="166">レディアン Redian</pokemon>
 	<pokemon id="167">イトマル Itomaru</pokemon>
-	<pokemon id="168">アリアドス (<font
-  class="font12">Ariadosu<font class="font10">) Ariados</pokemon>
-	<pokemon id="169">クロバット (<font
-  class="font12">Kurobatto<font class="font10">) Crobat</pokemon>
-	<pokemon id="170">チョンチー (<font
-  class="font12">Chonchī<font class="font10">) Chonchie</pokemon>
-	<pokemon id="171">ランターン (<font
-  class="font12">Rantān<font class="font10">) Lantern</pokemon>
-	<pokemon id="172">ピチュー (<font
-  class="font12">Pichū<font class="font10">) Pichu</pokemon>
-	<pokemon id="173">ピィ (<font class="font12">Pyi<font
-  class="font10">) Py</pokemon>
+	<pokemon id="168">アリアドス (Ariadosu) Ariados</pokemon>
+	<pokemon id="169">クロバット (Kurobatto) Crobat</pokemon>
+	<pokemon id="170">チョンチー (Chonchī) Chonchie</pokemon>
+	<pokemon id="171">ランターン (Rantān) Lantern</pokemon>
+	<pokemon id="172">ピチュー (Pichū) Pichu</pokemon>
+	<pokemon id="173">ピィ (Pyi) Py</pokemon>
 	<pokemon id="174">ププリン Pupurin</pokemon>
-	<pokemon id="175">トゲピー (<font
-  class="font12">Togepī<font class="font10">) Togepy</pokemon>
-	<pokemon id="176">トゲチック (<font
-  class="font12">Togechikku<font class="font10">) Togechick</pokemon>
-	<pokemon id="177">ネイティ (<font
-  class="font12">Neiti<font class="font10">) Naty</pokemon>
-	<pokemon id="178">ネイティオ (<font
-  class="font12">Neitio<font class="font10">) Natio</pokemon>
-	<pokemon id="179">メリープ (<font
-  class="font12">Merīpu<font class="font10">) Merriep</pokemon>
+	<pokemon id="175">トゲピー (Togepī) Togepy</pokemon>
+	<pokemon id="176">トゲチック (Togechikku) Togechick</pokemon>
+	<pokemon id="177">ネイティ (Neiti) Naty</pokemon>
+	<pokemon id="178">ネイティオ (Neitio) Natio</pokemon>
+	<pokemon id="179">メリープ (Merīpu) Merriep</pokemon>
 	<pokemon id="180">モココ Mokoko</pokemon>
-	<pokemon id="181">デンリュウ (<font
-  class="font12">Denryū<font class="font10">) Denryu</pokemon>
+	<pokemon id="181">デンリュウ (Denryū) Denryu</pokemon>
 	<pokemon id="182">キレイハナ Kireihana</pokemon>
-	<pokemon id="183">マリル (<font
-  class="font12">Mariru<font class="font10">) Maril</pokemon>
-	<pokemon id="184">マリルリ (<font
-  class="font12">Mariruri<font class="font10">) Marilli</pokemon>
-	<pokemon id="185">ウソッキー (<font
-  class="font12">Usokkī<font class="font10">) Usokkie</pokemon>
+	<pokemon id="183">マリル (Mariru) Maril</pokemon>
+	<pokemon id="184">マリルリ (Mariruri) Marilli</pokemon>
+	<pokemon id="185">ウソッキー (Usokkī) Usokkie</pokemon>
 	<pokemon id="186">ニョロトノ Nyorotono</pokemon>
-	<pokemon id="187">ハネッコ (<font
-  class="font12">Hanekko<font class="font10">) Hanecco</pokemon>
-	<pokemon id="188">ポポッコ (<font
-  class="font12">Popokko<font class="font10">) Popocco</pokemon>
-	<pokemon id="189">ワタッコ (<font
-  class="font12">Watakko<font class="font10">) Watacco</pokemon>
-	<pokemon id="190">エイパム (<font
-  class="font12">Eipamu<font class="font10">) Eipam</pokemon>
-	<pokemon id="191">ヒマナッツ (<font
-  class="font12">Himanattsu<font class="font10">) Himanuts</pokemon>
+	<pokemon id="187">ハネッコ (Hanekko) Hanecco</pokemon>
+	<pokemon id="188">ポポッコ (Popokko) Popocco</pokemon>
+	<pokemon id="189">ワタッコ (Watakko) Watacco</pokemon>
+	<pokemon id="190">エイパム (Eipamu) Eipam</pokemon>
+	<pokemon id="191">ヒマナッツ (Himanattsu) Himanuts</pokemon>
 	<pokemon id="192">キマワリ Kimawari</pokemon>
 	<pokemon id="193">ヤンヤンマ Yanyanma</pokemon>
-	<pokemon id="194">ウパー (<font
-  class="font12">Upā<font class="font10">) Upah</pokemon>
-	<pokemon id="195">ヌオー (<font
-  class="font12">Nuō<font class="font10">) Nuoh</pokemon>
-	<pokemon id="196">エーフィ (<font
-  class="font12">Ēfi<font class="font10">) Eifie</pokemon>
-	<pokemon id="197">ブラッキー (<font
-  class="font12">Burakkī<font class="font10">) Blacky</pokemon>
+	<pokemon id="194">ウパー (Upā) Upah</pokemon>
+	<pokemon id="195">ヌオー (Nuō) Nuoh</pokemon>
+	<pokemon id="196">エーフィ (Ēfi) Eifie</pokemon>
+	<pokemon id="197">ブラッキー (Burakkī) Blacky</pokemon>
 	<pokemon id="198">ヤミカラス Yamikarasu</pokemon>
-	<pokemon id="199">ヤドキング (<font
-  class="font12">Yadokingu<font class="font10">) Yadoking</pokemon>
-	<pokemon id="200">ムウマ (<font
-  class="font12">Mūma<font class="font10">) Muma</pokemon>
-	<pokemon id="201">アンノーン (<font
-  class="font12">Annōn<font class="font10">) Unknown</pokemon>
-	<pokemon id="202">ソーナンス (<font
-  class="font12">Sōnansu<font class="font10">) Sonans</pokemon>
+	<pokemon id="199">ヤドキング (Yadokingu) Yadoking</pokemon>
+	<pokemon id="200">ムウマ (Mūma) Muma</pokemon>
+	<pokemon id="201">アンノーン (Annōn) Unknown</pokemon>
+	<pokemon id="202">ソーナンス (Sōnansu) Sonans</pokemon>
 	<pokemon id="203">キリンリキ Kirinriki</pokemon>
 	<pokemon id="204">クヌギダマ Kunugidama</pokemon>
-	<pokemon id="205">フォレトス (<font
-  class="font12">Foretosu<font class="font10">) Foretos</pokemon>
+	<pokemon id="205">フォレトス (Foretosu) Foretos</pokemon>
 	<pokemon id="206">ノコッチ Nokocchi</pokemon>
-	<pokemon id="207">グライガー (<font
-  class="font12">Guraigā<font class="font10">) Gliger</pokemon>
-	<pokemon id="208">ハガネール (<font
-  class="font12">Haganeeru<font class="font10">) Haganeil</pokemon>
-	<pokemon id="209">ブルー (<font
-  class="font12">Burū<font class="font10">) Bulu</pokemon>
-	<pokemon id="210">グランブル (<font
-  class="font12">Guranburu<font class="font10">) Granbulu</pokemon>
-	<pokemon id="211">ハリーセン (<font
-  class="font12">Harīsen<font class="font10">) Harysen</pokemon>
-	<pokemon id="212">ハッサム (<font
-  class="font12">Hassamu<font class="font10">) Hassam</pokemon>
+	<pokemon id="207">グライガー (Guraigā) Gliger</pokemon>
+	<pokemon id="208">ハガネール (Haganeeru) Haganeil</pokemon>
+	<pokemon id="209">ブルー (Burū) Bulu</pokemon>
+	<pokemon id="210">グランブル (Guranburu) Granbulu</pokemon>
+	<pokemon id="211">ハリーセン (Harīsen) Harysen</pokemon>
+	<pokemon id="212">ハッサム (Hassamu) Hassam</pokemon>
 	<pokemon id="213">ツボツボ Tsubotsubo</pokemon>
-	<pokemon id="214">ヘラクロス (<font
-  class="font12">Herakurosu<font class="font10">) Heracros</pokemon>
-	<pokemon id="215">ニューラ (<font
-  class="font12">Nyūra<font class="font10">) Nyula</pokemon>
+	<pokemon id="214">ヘラクロス (Herakurosu) Heracros</pokemon>
+	<pokemon id="215">ニューラ (Nyūra) Nyula</pokemon>
 	<pokemon id="216">ヒメグマ Himeguma</pokemon>
 	<pokemon id="217">リングマ Ringuma</pokemon>
-	<pokemon id="218">マグマッグ (<font
-  class="font12">Magumaggu<font class="font10">) Magmag</pokemon>
-	<pokemon id="219">マグカルゴ (<font
-  class="font12">Magukarugo<font class="font10">) Magcargot</pokemon>
-	<pokemon id="220">ウリムー (<font
-  class="font12">Urimū<font class="font10">) Urimoo</pokemon>
-	<pokemon id="221">イノムー (<font
-  class="font12">Inomū<font class="font10">) Inomoo</pokemon>
-	<pokemon id="222">サニーゴ (<font
-  class="font12">Sanīgo<font class="font10">) Sunnygo</pokemon>
-	<pokemon id="223">テッポウオ (<font
-  class="font12">Teppōo<font class="font10">) Teppouo</pokemon>
-	<pokemon id="224">オクタン (<font
-  class="font12">Okutan<font class="font10">) Okutank</pokemon>
-	<pokemon id="225">デリバード (<font
-  class="font12">Deribādo<font class="font10">) Delibird</pokemon>
+	<pokemon id="218">マグマッグ (Magumaggu) Magmag</pokemon>
+	<pokemon id="219">マグカルゴ (Magukarugo) Magcargot</pokemon>
+	<pokemon id="220">ウリムー (Urimū) Urimoo</pokemon>
+	<pokemon id="221">イノムー (Inomū) Inomoo</pokemon>
+	<pokemon id="222">サニーゴ (Sanīgo) Sunnygo</pokemon>
+	<pokemon id="223">テッポウオ (Teppōo) Teppouo</pokemon>
+	<pokemon id="224">オクタン (Okutan) Okutank</pokemon>
+	<pokemon id="225">デリバード (Deribādo) Delibird</pokemon>
 	<pokemon id="226">マンタイン Mantain</pokemon>
-	<pokemon id="227">エアームド (<font
-  class="font12">Eāmudo<font class="font10">) Airmd</pokemon>
-	<pokemon id="228">デルビル (<font
-  class="font12">Derubiru<font class="font10">) Delvil</pokemon>
-	<pokemon id="229">ヘルガー (<font
-  class="font12">Herugā<font class="font10">) Hellgar</pokemon>
-	<pokemon id="230">キングドラ (<font
-  class="font12">Kingudora<font class="font10">) Kingdra</pokemon>
-	<pokemon id="231">ゴマゾウ (<font
-  class="font12">Gomazō<font class="font10">) Gomazou</pokemon>
+	<pokemon id="227">エアームド (Eāmudo) Airmd</pokemon>
+	<pokemon id="228">デルビル (Derubiru) Delvil</pokemon>
+	<pokemon id="229">ヘルガー (Herugā) Hellgar</pokemon>
+	<pokemon id="230">キングドラ (Kingudora) Kingdra</pokemon>
+	<pokemon id="231">ゴマゾウ (Gomazō) Gomazou</pokemon>
 	<pokemon id="232">ドンファン Donfan</pokemon>
 	<pokemon id="233">ポリゴン２ Porigon2</pokemon>
 	<pokemon id="234">オドシシ Odoshishi</pokemon>
-	<pokemon id="235">ドーブル (<font
-  class="font12">Dōburu<font class="font10">) Doble</pokemon>
-	<pokemon id="236">バルキー (<font
-  class="font12">Barukī<font class="font10">) Balkie</pokemon>
-	<pokemon id="237">カポエラー (<font
-  class="font12">Kapoerā<font class="font10">) Kapoerer</pokemon>
-	<pokemon id="238">ムチュール (<font
-  class="font12">Muchūru<font class="font10">) Muchul</pokemon>
-	<pokemon id="239">エレキッド (<font
-  class="font12">Erekiddo<font class="font10">) Elekid</pokemon>
-	<pokemon id="240">ブビィ (<font
-  class="font12">Bubyi<font class="font10">) Buby</pokemon>
-	<pokemon id="241">ミルタンク (<font
-  class="font12">Mirutanku<font class="font10">) Miltank</pokemon>
-	<pokemon id="242">ハピナス (<font
-  class="font12">Hapinasu<font class="font10">) Happinas</pokemon>
-	<pokemon id="243">ライコウ (<font
-  class="font12">Raikō<font class="font10">) Raikou</pokemon>
+	<pokemon id="235">ドーブル (Dōburu) Doble</pokemon>
+	<pokemon id="236">バルキー (Barukī) Balkie</pokemon>
+	<pokemon id="237">カポエラー (Kapoerā) Kapoerer</pokemon>
+	<pokemon id="238">ムチュール (Muchūru) Muchul</pokemon>
+	<pokemon id="239">エレキッド (Erekiddo) Elekid</pokemon>
+	<pokemon id="240">ブビィ (Bubyi) Buby</pokemon>
+	<pokemon id="241">ミルタンク (Mirutanku) Miltank</pokemon>
+	<pokemon id="242">ハピナス (Hapinasu) Happinas</pokemon>
+	<pokemon id="243">ライコウ (Raikō) Raikou</pokemon>
 	<pokemon id="244">エンテイ Entei</pokemon>
 	<pokemon id="245">スイクン Suikun</pokemon>
-	<pokemon id="246">ヨーギラス (<font
-  class="font12">Yōgirasu<font class="font10">) Yogiras</pokemon>
-	<pokemon id="247">サナギラス (<font
-  class="font12">Sanagirasu<font class="font10">) Sanagiras</pokemon>
-	<pokemon id="248">バンギラス (<font
-  class="font12">Bangirasu<font class="font10">) Bangiras</pokemon>
-	<pokemon id="249">ルギア (<font
-  class="font12">Rugia<font class="font10">) Lugia</pokemon>
-	<pokemon id="250">ホウオウ (<font
-  class="font12">Hōō<font class="font10">) Houou</pokemon>
-	<pokemon id="251">セレビィ (<font
-  class="font12">Serebyi<font class="font10">) Celebi</pokemon>
+	<pokemon id="246">ヨーギラス (Yōgirasu) Yogiras</pokemon>
+	<pokemon id="247">サナギラス (Sanagirasu) Sanagiras</pokemon>
+	<pokemon id="248">バンギラス (Bangirasu) Bangiras</pokemon>
+	<pokemon id="249">ルギア (Rugia) Lugia</pokemon>
+	<pokemon id="250">ホウオウ (Hōō) Houou</pokemon>
+	<pokemon id="251">セレビィ (Serebyi) Celebi</pokemon>
 	<pokemon id="252">キモリ Kimori</pokemon>
 	<pokemon id="253">ジュプトル (Juputoru) Juptile</pokemon>
 	<pokemon id="254">ジュカイン Jukain</pokemon>
@@ -461,116 +386,69 @@
 	<pokemon id="384">レックウザ (Rekkūza) Rayquaza</pokemon>
 	<pokemon id="385">ジラーチ (Jirāchi) Jirachi</pokemon>
 	<pokemon id="386">デオキシス(Deokishisu) Deoxys</pokemon>
-	<pokemon id="387">ナエトル (<font
-  class="font12">Naetoru<font class="font10">) Naetle</pokemon>
+	<pokemon id="387">ナエトル (Naetoru) Naetle</pokemon>
 	<pokemon id="388">ハヤシガメ Hayashigame</pokemon>
-	<pokemon id="389">ドダイトス (<font
-  class="font12">Dodaitosu<font class="font10">) Dodaitose</pokemon>
+	<pokemon id="389">ドダイトス (Dodaitosu) Dodaitose</pokemon>
 	<pokemon id="390">ヒコザル Hikozaru</pokemon>
-	<pokemon id="391">モウカザル (<font
-  class="font12">Mōkazaru<font class="font10">) Moukazaru</pokemon>
-	<pokemon id="392">ゴウカザル (<font
-  class="font12">Gōkazaru<font class="font10">) Goukazaru</pokemon>
-	<pokemon id="393">ポッチャマ (<font
-  class="font12">Potchama<font class="font10">) Pochama</pokemon>
+	<pokemon id="391">モウカザル (Mōkazaru) Moukazaru</pokemon>
+	<pokemon id="392">ゴウカザル (Gōkazaru) Goukazaru</pokemon>
+	<pokemon id="393">ポッチャマ (Potchama) Pochama</pokemon>
 	<pokemon id="394">ポッタイシ Pottaishi</pokemon>
-	<pokemon id="395">エンペルト (<font
-  class="font12">Enperuto<font class="font10">) Emperte</pokemon>
+	<pokemon id="395">エンペルト (Enperuto) Emperte</pokemon>
 	<pokemon id="396">ムックル Mukkuru</pokemon>
-	<pokemon id="397">ムクバード (<font
-  class="font12">Mukubādo<font class="font10">) Mukubird</pokemon>
-	<pokemon id="398">ムクホーク (<font
-  class="font12">Mukuhōku<font class="font10">) Mukuhawk</pokemon>
-	<pokemon id="399">ビッパ (<font
-  class="font12">Bippa<font class="font10">) Bipper</pokemon>
-	<pokemon id="400">ビーダル (<font
-  class="font12">Bīdaru<font class="font10">) Beadull</pokemon>
-	<pokemon id="401">コロボーシ (<font
-  class="font12">Korobōshi<font class="font10">) Korobohshi</pokemon>
-	<pokemon id="402">コロトック (<font
-  class="font12">Korotokku<font class="font10">) Korotok</pokemon>
-	<pokemon id="403">コリンク (<font
-  class="font12">Korinku<font class="font10">) Kolink</pokemon>
-	<pokemon id="404">ルクシオ (<font
-  class="font12">Rukushio<font class="font10">) Luxio</pokemon>
-	<pokemon id="405">レントラー (<font
-  class="font12">Rentorā<font class="font10">) Rentorar</pokemon>
-	<pokemon id="406">スボミー (<font
-  class="font12">Subomī<font class="font10">) Subomie</pokemon>
-	<pokemon id="407">ロズレイド (<font
-  class="font12">Rozureido<font class="font10">) Roserade</pokemon>
-	<pokemon id="408">ズガイドス (<font
-  class="font12">Zugaidosu<font class="font10">) Zugaidos</pokemon>
-	<pokemon id="409">ラムパルド (<font
-  class="font12">Ramuparudo<font class="font10">) Rampard</pokemon>
-	<pokemon id="410">タテトプス (<font
-  class="font12">Tatetopusu<font class="font10">) Tatetops</pokemon>
-	<pokemon id="411">トリデプス (<font
-  class="font12">Toridepusu<font class="font10">) Trideps</pokemon>
-	<pokemon id="412">ミノムッチ (<font
-  class="font12">Minomutchi<font class="font10">) Minomucchi</pokemon>
-	<pokemon id="413">ミノマダム (<font
-  class="font12">Minomadamu<font class="font10">) Minomadam</pokemon>
-	<pokemon id="414">ガーメイル (<font
-  class="font12">Gāmeiru<font class="font10">) Garmeil</pokemon>
-	<pokemon id="415">ミツハニー (<font
-  class="font12">Mitsuhanī<font class="font10">) Mitsuhoney</pokemon>
-	<pokemon id="416">ビークイン (<font
-  class="font12">Bīkuin<font class="font10">) Beequeen</pokemon>
+	<pokemon id="397">ムクバード (Mukubādo) Mukubird</pokemon>
+	<pokemon id="398">ムクホーク (Mukuhōku) Mukuhawk</pokemon>
+	<pokemon id="399">ビッパ (Bippa) Bipper</pokemon>
+	<pokemon id="400">ビーダル (Bīdaru) Beadull</pokemon>
+	<pokemon id="401">コロボーシ (Korobōshi) Korobohshi</pokemon>
+	<pokemon id="402">コロトック (Korotokku) Korotok</pokemon>
+	<pokemon id="403">コリンク (Korinku) Kolink</pokemon>
+	<pokemon id="404">ルクシオ (Rukushio) Luxio</pokemon>
+	<pokemon id="405">レントラー (Rentorā) Rentorar</pokemon>
+	<pokemon id="406">スボミー (Subomī) Subomie</pokemon>
+	<pokemon id="407">ロズレイド (Rozureido) Roserade</pokemon>
+	<pokemon id="408">ズガイドス (Zugaidosu) Zugaidos</pokemon>
+	<pokemon id="409">ラムパルド (Ramuparudo) Rampard</pokemon>
+	<pokemon id="410">タテトプス (Tatetopusu) Tatetops</pokemon>
+	<pokemon id="411">トリデプス (Toridepusu) Trideps</pokemon>
+	<pokemon id="412">ミノムッチ (Minomutchi) Minomucchi</pokemon>
+	<pokemon id="413">ミノマダム (Minomadamu) Minomadam</pokemon>
+	<pokemon id="414">ガーメイル (Gāmeiru) Garmeil</pokemon>
+	<pokemon id="415">ミツハニー (Mitsuhanī) Mitsuhoney</pokemon>
+	<pokemon id="416">ビークイン (Bīkuin) Beequeen</pokemon>
 	<pokemon id="417">パチリス Pachirisu</pokemon>
-	<pokemon id="418">ブイゼル (<font
-  class="font12">Buizeru<font class="font10">) Buoysel</pokemon>
-	<pokemon id="419">フローゼル (<font
-  class="font12">Furōzeru<font class="font10">) Flowsel</pokemon>
+	<pokemon id="418">ブイゼル (Buizeru) Buoysel</pokemon>
+	<pokemon id="419">フローゼル (Furōzeru) Flowsel</pokemon>
 	<pokemon id="420">チェリンボ Cherinbo</pokemon>
-	<pokemon id="421">チェリム (<font
-  class="font12">Cherimu<font class="font10">) Cherrim</pokemon>
+	<pokemon id="421">チェリム (Cherimu) Cherrim</pokemon>
 	<pokemon id="422">カラナクシ Karanakushi</pokemon>
 	<pokemon id="423">トリトドン Toritodon</pokemon>
-	<pokemon id="424">エテボース (<font
-  class="font12">Etebōsu<font class="font10">) Eteboth</pokemon>
+	<pokemon id="424">エテボース (Etebōsu) Eteboth</pokemon>
 	<pokemon id="425">フワンテ Fuwante</pokemon>
-	<pokemon id="426">フワライド (<font
-  class="font12">Fuwaraido<font class="font10">) Fuwaride</pokemon>
-	<pokemon id="427">ミミロル (<font
-  class="font12">Mimiroru<font class="font10">) Mimirol</pokemon>
-	<pokemon id="428">ミミロップ (<font
-  class="font12">Mimiroppu<font class="font10">) Mimilop</pokemon>
-	<pokemon id="429">ムウマージ (<font
-  class="font12">Mūmāji<font class="font10">) Mumage</pokemon>
+	<pokemon id="426">フワライド (Fuwaraido) Fuwaride</pokemon>
+	<pokemon id="427">ミミロル (Mimiroru) Mimirol</pokemon>
+	<pokemon id="428">ミミロップ (Mimiroppu) Mimilop</pokemon>
+	<pokemon id="429">ムウマージ (Mūmāji) Mumage</pokemon>
 	<pokemon id="430">ドンカラス Donkarasu</pokemon>
-	<pokemon id="431">ニャルマー (<font
-  class="font12">Nyarumā<font class="font10">) Nyarmar</pokemon>
-	<pokemon id="432">ブニャット (<font
-  class="font12">Bunyatto<font class="font10">) Bunyat</pokemon>
-	<pokemon id="433">リーシャン (<font
-  class="font12">Rīshan<font class="font10">) Lisyan</pokemon>
-	<pokemon id="434">スカンプー (<font
-  class="font12">Sukanpū<font class="font10">) Skunpoo</pokemon>
-	<pokemon id="435">スカタンク (<font
-  class="font12">Sukatanku<font class="font10">) Skutank</pokemon>
-	<pokemon id="436">ドーミラー (<font
-  class="font12">Dōmirā<font class="font10">) Domirror</pokemon>
-	<pokemon id="437">ドータクン (<font
-  class="font12">Dōtakun<font class="font10">) Dotakun</pokemon>
+	<pokemon id="431">ニャルマー (Nyarumā) Nyarmar</pokemon>
+	<pokemon id="432">ブニャット (Bunyatto) Bunyat</pokemon>
+	<pokemon id="433">リーシャン (Rīshan) Lisyan</pokemon>
+	<pokemon id="434">スカンプー (Sukanpū) Skunpoo</pokemon>
+	<pokemon id="435">スカタンク (Sukatanku) Skutank</pokemon>
+	<pokemon id="436">ドーミラー (Dōmirā) Domirror</pokemon>
+	<pokemon id="437">ドータクン (Dōtakun) Dotakun</pokemon>
 	<pokemon id="438">ウソハチ Usohachi</pokemon>
 	<pokemon id="439">マネネ Manene</pokemon>
 	<pokemon id="440">ピンプク Pinpuku</pokemon>
-	<pokemon id="441">ペラップ (<font
-  class="font12">Perappu<font class="font10">) Perap</pokemon>
+	<pokemon id="441">ペラップ (Perappu) Perap</pokemon>
 	<pokemon id="442">ミカルゲ Mikaruge</pokemon>
 	<pokemon id="443">フカマル Fukamaru</pokemon>
-	<pokemon id="444">ガバイト (<font
-  class="font12">Gabaito<font class="font10">) Gabite</pokemon>
-	<pokemon id="445">ガブリアス (<font
-  class="font12">Gaburiasu<font class="font10">) Gablias</pokemon>
+	<pokemon id="444">ガバイト (Gabaito) Gabite</pokemon>
+	<pokemon id="445">ガブリアス (Gaburiasu) Gablias</pokemon>
 	<pokemon id="446">ゴンベ Gonbe</pokemon>
-	<pokemon id="447">リオル (<font
-  class="font12">Rioru<font class="font10">) Riolu</pokemon>
-	<pokemon id="448">ルカリオ (<font
-  class="font12">Rukario<font class="font10">) Lucario</pokemon>
-	<pokemon id="449">ヒポポタス (<font
-  class="font12">Hipopotasu<font class="font10">) Hipopotas</pokemon>
+	<pokemon id="447">リオル (Rioru) Riolu</pokemon>
+	<pokemon id="448">ルカリオ (Rukario) Lucario</pokemon>
+	<pokemon id="449">ヒポポタス (Hipopotasu) Hipopotas</pokemon>
 	<pokemon id="450">カバルドン Kabarudon</pokemon>
 	<pokemon id="451">スコルピ (Sukorupi) Scorpi</pokemon>
 	<pokemon id="452">ドラピオン Dorapion</pokemon>
