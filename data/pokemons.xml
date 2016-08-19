@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DB nbPokemons="721" xmlns:android="http://schemas.android.com/apk/res/android">
-	<pokemon number="1" generation="1">
+	<pokemon id="1" generation="1">
 		<evolutions>
 			<evolution id=2 />
 		</evolutions>
@@ -23,7 +23,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="2" generation="1">
+	<pokemon id="2" generation="1">
 		<evolutions>
 			<evolution id=3 />
 		</evolutions>
@@ -46,7 +46,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="3" generation="1">
+	<pokemon id="3" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="198" defense="200" stamina="160" />
@@ -68,7 +68,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="4" generation="1">
+	<pokemon id="4" generation="1">
 		<evolutions>
 			<evolution id=5 />
 		</evolutions>
@@ -90,7 +90,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="5" generation="1">
+	<pokemon id="5" generation="1">
 		<evolutions>
 			<evolution id=6 />
 		</evolutions>
@@ -112,7 +112,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="6" generation="1">
+	<pokemon id="6" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="212" defense="182" stamina="156" />
@@ -134,7 +134,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="7" generation="1">
+	<pokemon id="7" generation="1">
 		<evolutions>
 			<evolution id=8 />
 		</evolutions>
@@ -156,7 +156,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="8" generation="1">
+	<pokemon id="8" generation="1">
 		<evolutions>
 			<evolution id=9 />
 		</evolutions>
@@ -178,7 +178,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="9" generation="1">
+	<pokemon id="9" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="186" defense="222" stamina="158" />
@@ -199,7 +199,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="10" generation="1">
+	<pokemon id="10" generation="1">
 		<evolutions>
 			<evolution id=10 />
 		</evolutions>
@@ -219,7 +219,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="11" generation="1">
+	<pokemon id="11" generation="1">
 		<evolutions>
 			<evolution id=11 />
 		</evolutions>
@@ -239,7 +239,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="12" generation="1">
+	<pokemon id="12" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="144" defense="144" stamina="120" />
@@ -261,7 +261,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="13" generation="1">
+	<pokemon id="13" generation="1">
 		<evolutions>
 			<evolution id=14 />
 		</evolutions>
@@ -282,7 +282,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="14" generation="1">
+	<pokemon id="14" generation="1">
 		<evolutions>
 			<evolution id=15 />
 		</evolutions>
@@ -303,7 +303,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="15" generation="1">
+	<pokemon id="15" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="144" defense="130" stamina="130" />
@@ -325,7 +325,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="16" generation="1">
+	<pokemon id="16" generation="1">
 		<evolutions>
 			<evolution id=17 />
 		</evolutions>
@@ -348,7 +348,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="17" generation="1">
+	<pokemon id="17" generation="1">
 		<evolutions>
 			<evolution id=18 />
 		</evolutions>
@@ -371,7 +371,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="18" generation="1">
+	<pokemon id="18" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="170" defense="166" stamina="166" />
@@ -393,7 +393,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="19" generation="1">
+	<pokemon id="19" generation="1">
 		<evolutions>
 			<evolution id=20 />
 		</evolutions>
@@ -415,7 +415,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="20" generation="1">
+	<pokemon id="20" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="146" defense="150" stamina="110" />
@@ -436,7 +436,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="21" generation="1">
+	<pokemon id="21" generation="1">
 		<evolutions>
 			<evolution id=22 />
 		</evolutions>
@@ -459,7 +459,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="22" generation="1">
+	<pokemon id="22" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="168" defense="146" stamina="130" />
@@ -481,7 +481,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="23" generation="1">
+	<pokemon id="23" generation="1">
 		<evolutions>
 			<evolution id=24 />
 		</evolutions>
@@ -503,7 +503,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="24" generation="1">
+	<pokemon id="24" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="166" defense="166" stamina="120" />
@@ -524,7 +524,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="25" generation="1">
+	<pokemon id="25" generation="1">
 		<evolutions>
 			<evolution id=26 />
 		</evolutions>
@@ -546,7 +546,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="26" generation="1">
+	<pokemon id="26" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="200" defense="154" stamina="120" />
@@ -567,7 +567,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="27" generation="1">
+	<pokemon id="27" generation="1">
 		<evolutions>
 			<evolution id=28 />
 		</evolutions>
@@ -589,7 +589,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="28" generation="1">
+	<pokemon id="28" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="150" defense="172" stamina="150" />
@@ -610,7 +610,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="29" generation="1">
+	<pokemon id="29" generation="1">
 		<evolutions>
 			<evolution id=30 />
 		</evolutions>
@@ -632,7 +632,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="30" generation="1">
+	<pokemon id="30" generation="1">
 		<evolutions>
 			<evolution id=31 />
 		</evolutions>
@@ -654,7 +654,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="31" generation="1">
+	<pokemon id="31" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="184" defense="190" stamina="180" />
@@ -676,7 +676,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="32" generation="1">
+	<pokemon id="32" generation="1">
 		<evolutions>
 			<evolution id=33 />
 		</evolutions>
@@ -698,7 +698,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="33" generation="1">
+	<pokemon id="33" generation="1">
 		<evolutions>
 			<evolution id=34 />
 		</evolutions>
@@ -720,7 +720,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="34" generation="1">
+	<pokemon id="34" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="204" defense="170" stamina="162" />
@@ -742,7 +742,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="35" generation="1">
+	<pokemon id="35" generation="1">
 		<evolutions>
 			<evolution id=36 />
 		</evolutions>
@@ -764,7 +764,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="36" generation="1">
+	<pokemon id="36" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="178" defense="178" stamina="190" />
@@ -785,7 +785,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="37" generation="1">
+	<pokemon id="37" generation="1">
 		<evolutions>
 			<evolution id=38 />
 		</evolutions>
@@ -807,7 +807,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="38" generation="1">
+	<pokemon id="38" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="176" defense="194" stamina="146" />
@@ -828,7 +828,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="39" generation="1">
+	<pokemon id="39" generation="1">
 		<evolutions>
 			<evolution id=40 />
 		</evolutions>
@@ -851,7 +851,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="40" generation="1">
+	<pokemon id="40" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="168" defense="108" stamina="280" />
@@ -873,7 +873,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="41" generation="1">
+	<pokemon id="41" generation="1">
 		<evolutions>
 			<evolution id=42 />
 		</evolutions>
@@ -896,7 +896,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="42" generation="1">
+	<pokemon id="42" generation="1">
 		<evolutions>
 			<evolution id=169 />
 		</evolutions>
@@ -919,7 +919,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="43" generation="1">
+	<pokemon id="43" generation="1">
 		<evolutions>
 			<evolution id=44 />
 		</evolutions>
@@ -942,7 +942,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="44" generation="1">
+	<pokemon id="44" generation="1">
 		<evolutions>
 			<evolution id="45" />
 		</evolutions>
@@ -965,7 +965,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="45" generation="1">
+	<pokemon id="45" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="202" defense="190" stamina="150" />
@@ -987,7 +987,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="46" generation="1">
+	<pokemon id="46" generation="1">
 		<evolutions>
 			<evolution id=47 />
 		</evolutions>
@@ -1010,7 +1010,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="47" generation="1">
+	<pokemon id="47" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="162" defense="170" stamina="120" />
@@ -1032,7 +1032,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="48" generation="1">
+	<pokemon id="48" generation="1">
 		<evolutions>
 			<evolution id=49 />
 		</evolutions>
@@ -1055,7 +1055,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="49" generation="1">
+	<pokemon id="49" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="172" defense="154" stamina="140" />
@@ -1077,7 +1077,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="50" generation="1">
+	<pokemon id="50" generation="1">
 		<evolutions>
 			<evolution id=51 />
 		</evolutions>
@@ -1099,7 +1099,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="51" generation="1">
+	<pokemon id="51" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="148" defense="140" stamina="70" />
@@ -1120,7 +1120,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="52" generation="1">
+	<pokemon id="52" generation="1">
 		<evolutions>
 			<evolution id=53 />
 		</evolutions>
@@ -1142,7 +1142,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="53" generation="1">
+	<pokemon id="53" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="156" defense="146" stamina="130" />
@@ -1163,7 +1163,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="54" generation="1">
+	<pokemon id="54" generation="1">
 		<evolutions>
 			<evolution id=55 />
 		</evolutions>
@@ -1185,7 +1185,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="55" generation="1">
+	<pokemon id="55" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="194" defense="176" stamina="160" />
@@ -1206,7 +1206,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="56" generation="1">
+	<pokemon id="56" generation="1">
 		<evolutions>
 			<evolution id=57 />
 		</evolutions>
@@ -1228,7 +1228,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="57" generation="1">
+	<pokemon id="57" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="178" defense="150" stamina="130" />
@@ -1249,7 +1249,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="58" generation="1">
+	<pokemon id="58" generation="1">
 		<evolutions>
 			<evolution id=59 />
 		</evolutions>
@@ -1271,7 +1271,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="59" generation="1">
+	<pokemon id="59" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="230" defense="180" stamina="180" />
@@ -1292,7 +1292,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="60" generation="1">
+	<pokemon id="60" generation="1">
 		<evolutions>
 			<evolution id=61 />
 		</evolutions>
@@ -1314,7 +1314,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="61" generation="1">
+	<pokemon id="61" generation="1">
 		<evolutions>
 			<evolution id="62" />
 		</evolutions>
@@ -1336,7 +1336,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="62" generation="1">
+	<pokemon id="62" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="180" defense="202" stamina="180" />
@@ -1358,7 +1358,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="63" generation="1">
+	<pokemon id="63" generation="1">
 		<evolutions>
 			<evolution id=64 />
 		</evolutions>
@@ -1379,7 +1379,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="64" generation="1">
+	<pokemon id="64" generation="1">
 		<evolutions>
 			<evolution id=65 />
 		</evolutions>
@@ -1401,7 +1401,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="65" generation="1">
+	<pokemon id="65" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="186" defense="152" stamina="110" />
@@ -1422,7 +1422,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="66" generation="1">
+	<pokemon id="66" generation="1">
 		<evolutions>
 			<evolution id=67 />
 		</evolutions>
@@ -1444,7 +1444,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="67" generation="1">
+	<pokemon id="67" generation="1">
 		<evolutions>
 			<evolution id=68 />
 		</evolutions>
@@ -1466,7 +1466,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="68" generation="1">
+	<pokemon id="68" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="198" defense="180" stamina="180" />
@@ -1487,7 +1487,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="69" generation="1">
+	<pokemon id="69" generation="1">
 		<evolutions>
 			<evolution id=70 />
 		</evolutions>
@@ -1510,7 +1510,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="70" generation="1">
+	<pokemon id="70" generation="1">
 		<evolutions>
 			<evolution id=71 />
 		</evolutions>
@@ -1533,7 +1533,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="71" generation="1">
+	<pokemon id="71" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="222" defense="152" stamina="160" />
@@ -1555,7 +1555,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="72" generation="1">
+	<pokemon id="72" generation="1">
 		<evolutions>
 			<evolution id=73 />
 		</evolutions>
@@ -1578,7 +1578,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="73" generation="1">
+	<pokemon id="73" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="170" defense="196" stamina="160" />
@@ -1600,7 +1600,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="74" generation="1">
+	<pokemon id="74" generation="1">
 		<evolutions>
 			<evolution id=75 />
 		</evolutions>
@@ -1623,7 +1623,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="75" generation="1">
+	<pokemon id="75" generation="1">
 		<evolutions>
 			<evolution id=76 />
 		</evolutions>
@@ -1646,7 +1646,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="76" generation="1">
+	<pokemon id="76" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="176" defense="198" stamina="160" />
@@ -1668,7 +1668,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="77" generation="1">
+	<pokemon id="77" generation="1">
 		<evolutions>
 			<evolution id=78 />
 		</evolutions>
@@ -1690,7 +1690,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="78" generation="1">
+	<pokemon id="78" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="200" defense="170" stamina="130" />
@@ -1711,7 +1711,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="79" generation="1">
+	<pokemon id="79" generation="1">
 		<evolutions>
 			<evolution id="80" />
 		</evolutions>
@@ -1734,7 +1734,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="80" generation="1">
+	<pokemon id="80" generation="1">
 		<evolutions>
 			<evolution id=81 />
 		</evolutions>
@@ -1757,7 +1757,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="81" generation="1">
+	<pokemon id="81" generation="1">
 		<evolutions>
 			<evolution id=462 />
 		</evolutions>
@@ -1780,7 +1780,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="82" generation="1">
+	<pokemon id="82" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="186" defense="180" stamina="100" />
@@ -1802,7 +1802,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="83" generation="1">
+	<pokemon id="83" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="138" defense="132" stamina="104" />
@@ -1824,7 +1824,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="84" generation="1">
+	<pokemon id="84" generation="1">
 		<evolutions>
 			<evolution id=85 />
 		</evolutions>
@@ -1847,7 +1847,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="85" generation="1">
+	<pokemon id="85" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="182" defense="150" stamina="120" />
@@ -1869,7 +1869,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="86" generation="1">
+	<pokemon id="86" generation="1">
 		<evolutions>
 			<evolution id=87 />
 		</evolutions>
@@ -1891,7 +1891,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="87" generation="1">
+	<pokemon id="87" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="156" defense="192" stamina="180" />
@@ -1913,7 +1913,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="88" generation="1">
+	<pokemon id="88" generation="1">
 		<evolutions>
 			<evolution id=89 />
 		</evolutions>
@@ -1935,7 +1935,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="89" generation="1">
+	<pokemon id="89" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="180" defense="188" stamina="210" />
@@ -1956,7 +1956,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="90" generation="1">
+	<pokemon id="90" generation="1">
 		<evolutions>
 			<evolution id=91 />
 		</evolutions>
@@ -1978,7 +1978,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="91" generation="1">
+	<pokemon id="91" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="196" defense="196" stamina="100" />
@@ -2000,7 +2000,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="92" generation="1">
+	<pokemon id="92" generation="1">
 		<evolutions>
 			<evolution id=93 />
 		</evolutions>
@@ -2023,7 +2023,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="93" generation="1">
+	<pokemon id="93" generation="1">
 		<evolutions>
 			<evolution id=94 />
 		</evolutions>
@@ -2046,7 +2046,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="94" generation="1">
+	<pokemon id="94" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="204" defense="156" stamina="120" />
@@ -2068,7 +2068,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="95" generation="1">
+	<pokemon id="95" generation="1">
 		<evolutions>
 			<evolution id=208 />
 		</evolutions>
@@ -2091,7 +2091,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="96" generation="1">
+	<pokemon id="96" generation="1">
 		<evolutions>
 			<evolution id=97 />
 		</evolutions>
@@ -2113,7 +2113,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="97" generation="1">
+	<pokemon id="97" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="162" defense="196" stamina="170" />
@@ -2134,7 +2134,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="98" generation="1">
+	<pokemon id="98" generation="1">
 		<evolutions>
 			<evolution id=99 />
 		</evolutions>
@@ -2156,7 +2156,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="99" generation="1">
+	<pokemon id="99" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="178" defense="168" stamina="110" />
@@ -2177,7 +2177,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="100" generation="1">
+	<pokemon id="100" generation="1">
 		<evolutions>
 			<evolution id=101 />
 		</evolutions>
@@ -2199,7 +2199,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="101" generation="1">
+	<pokemon id="101" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="150" defense="174" stamina="120" />
@@ -2220,7 +2220,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="102" generation="1">
+	<pokemon id="102" generation="1">
 		<evolutions>
 			<evolution id=103 />
 		</evolutions>
@@ -2242,7 +2242,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="103" generation="1">
+	<pokemon id="103" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="232" defense="164" stamina="190" />
@@ -2264,7 +2264,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="104" generation="1">
+	<pokemon id="104" generation="1">
 		<evolutions>
 			<evolution id=105 />
 		</evolutions>
@@ -2286,7 +2286,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="105" generation="1">
+	<pokemon id="105" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="140" defense="202" stamina="120" />
@@ -2307,7 +2307,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="106" generation="1">
+	<pokemon id="106" generation="1">
 		<evolutions>
 			<evolution id=107 />
 		</evolutions>
@@ -2329,7 +2329,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="107" generation="1">
+	<pokemon id="107" generation="1">
 		<evolutions>
 			<evolution id=237 />
 		</evolutions>
@@ -2352,7 +2352,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="108" generation="1">
+	<pokemon id="108" generation="1">
 		<evolutions>
 			<evolution id=463 />
 		</evolutions>
@@ -2374,7 +2374,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="109" generation="1">
+	<pokemon id="109" generation="1">
 		<evolutions>
 			<evolution id=110 />
 		</evolutions>
@@ -2396,7 +2396,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="110" generation="1">
+	<pokemon id="110" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="190" defense="198" stamina="130" />
@@ -2417,7 +2417,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="111" generation="1">
+	<pokemon id="111" generation="1">
 		<evolutions>
 			<evolution id=112 />
 		</evolutions>
@@ -2440,7 +2440,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="112" generation="1">
+	<pokemon id="112" generation="1">
 		<evolutions>
 			<evolution id=464 />
 		</evolutions>
@@ -2463,7 +2463,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="113" generation="1">
+	<pokemon id="113" generation="1">
 		<evolutions>
 			<evolution id=242 />
 		</evolutions>
@@ -2485,7 +2485,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="114" generation="1">
+	<pokemon id="114" generation="1">
 		<evolutions>
 			<evolution id=465 />
 		</evolutions>
@@ -2506,7 +2506,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="115" generation="1">
+	<pokemon id="115" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="142" defense="178" stamina="210" />
@@ -2527,7 +2527,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="116" generation="1">
+	<pokemon id="116" generation="1">
 		<evolutions>
 			<evolution id=117 />
 		</evolutions>
@@ -2549,7 +2549,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="117" generation="1">
+	<pokemon id="117" generation="1">
 		<evolutions>
 			<evolution id=230 />
 		</evolutions>
@@ -2571,7 +2571,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="118" generation="1">
+	<pokemon id="118" generation="1">
 		<evolutions>
 			<evolution id=119 />
 		</evolutions>
@@ -2593,7 +2593,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="119" generation="1">
+	<pokemon id="119" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="172" defense="160" stamina="160" />
@@ -2614,7 +2614,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="120" generation="1">
+	<pokemon id="120" generation="1">
 		<evolutions>
 			<evolution id=121 />
 		</evolutions>
@@ -2636,7 +2636,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="121" generation="1">
+	<pokemon id="121" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="194" defense="192" stamina="120" />
@@ -2658,7 +2658,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="122" generation="1">
+	<pokemon id="122" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="154" defense="196" stamina="80" />
@@ -2680,7 +2680,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="123" generation="1">
+	<pokemon id="123" generation="1">
 		<evolutions>
 			<evolution id=212 />
 		</evolutions>
@@ -2703,7 +2703,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="124" generation="1">
+	<pokemon id="124" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="172" defense="134" stamina="130" />
@@ -2725,7 +2725,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="125" generation="1">
+	<pokemon id="125" generation="1">
 		<evolutions>
 			<evolution id=466 />
 		</evolutions>
@@ -2747,7 +2747,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="126" generation="1">
+	<pokemon id="126" generation="1">
 		<evolutions>
 			<evolution id=467 />
 		</evolutions>
@@ -2769,7 +2769,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="127" generation="1">
+	<pokemon id="127" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="184" defense="186" stamina="130" />
@@ -2790,7 +2790,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="128" generation="1">
+	<pokemon id="128" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="148" defense="184" stamina="150" />
@@ -2811,7 +2811,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="129" generation="1">
+	<pokemon id="129" generation="1">
 		<evolutions>
 			<evolution id=130 />
 		</evolutions>
@@ -2830,7 +2830,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="130" generation="1">
+	<pokemon id="130" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="192" defense="196" stamina="190" />
@@ -2852,7 +2852,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="131" generation="1">
+	<pokemon id="131" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="186" defense="190" stamina="260" />
@@ -2874,7 +2874,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="132" generation="1">
+	<pokemon id="132" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="110" defense="110" stamina="96" />
@@ -2892,7 +2892,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="133" generation="1">
+	<pokemon id="133" generation="1">
 		<evolutions>
 			<evolution id="134" />
 			<evolution id="135" />
@@ -2916,7 +2916,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="134" generation="1">
+	<pokemon id="134" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="186" defense="168" stamina="260" />
@@ -2936,7 +2936,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="135" generation="1">
+	<pokemon id="135" generation="1">
 		<evolutions />
 		<stats attack="192" defense="174" stamina="130" />
 		<shapes>
@@ -2955,7 +2955,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="136" generation="1">
+	<pokemon id="136" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="238" defense="178" stamina="130" />
@@ -2975,7 +2975,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="137" generation="1">
+	<pokemon id="137" generation="1">
 		<evolutions>
 			<evolution id=233 />
 		</evolutions>
@@ -2997,7 +2997,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="138" generation="1">
+	<pokemon id="138" generation="1">
 		<evolutions>
 			<evolution id=139 />
 		</evolutions>
@@ -3020,7 +3020,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="139" generation="1">
+	<pokemon id="139" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="180" defense="202" stamina="140" />
@@ -3042,7 +3042,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="140" generation="1">
+	<pokemon id="140" generation="1">
 		<evolutions>
 			<evolution id=141 />
 		</evolutions>
@@ -3065,7 +3065,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="141" generation="1">
+	<pokemon id="141" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="190" defense="190" stamina="120" />
@@ -3087,7 +3087,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="142" generation="1">
+	<pokemon id="142" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="182" defense="162" stamina="160" />
@@ -3109,7 +3109,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="143" generation="1">
+	<pokemon id="143" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="180" defense="180" stamina="320" />
@@ -3130,7 +3130,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="144" generation="1">
+	<pokemon id="144" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="198" defense="242" stamina="180" />
@@ -3151,7 +3151,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="145" generation="1">
+	<pokemon id="145" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="232" defense="194" stamina="180" />
@@ -3172,7 +3172,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="146" generation="1">
+	<pokemon id="146" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="242" defense="194" stamina="180" />
@@ -3193,7 +3193,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="147" generation="1">
+	<pokemon id="147" generation="1">
 		<evolutions>
 			<evolution id=148 />
 		</evolutions>
@@ -3214,7 +3214,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="148" generation="1">
+	<pokemon id="148" generation="1">
 		<evolutions>
 			<evolution id=149 />
 		</evolutions>
@@ -3235,7 +3235,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="149" generation="1">
+	<pokemon id="149" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="250" defense="212" stamina="182" />
@@ -3257,7 +3257,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="150" generation="1">
+	<pokemon id="150" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="284" defense="202" stamina="212" />
@@ -3278,7 +3278,7 @@
 			</specials>
 		</attacks>
 	</pokemon>
-	<pokemon number="151" generation="1">
+	<pokemon id="151" generation="1">
 		<evolutions>
 		</evolutions>
 		<stats attack="220" defense="220" stamina="200" />
