@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<attacks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="lang-attacks.xsd">
+<attacks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lang-attacks.xsd">
 	<attack id="1">Ligotage</attack>
 	<attack id="2">Ultralaser</attack>
 	<attack id="3">Vibrobscur</attack>
