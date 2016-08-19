@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<types>
+<types xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lang-types.xsd">
 	<type id="1">Normal</type>
 	<type id="2">Combat</type>
 	<type id="3">Vol</type>

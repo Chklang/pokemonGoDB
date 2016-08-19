@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<attacks>
+<attacks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="lang-attacks.xsd">
 	<attack id="1">김밥말이 (Gimbapmal\'i)</attack>
 	<attack id="2">파괴광선 (Pagoe Gwangseon)</attack>
 	<attack id="3">악의파동 (Ak-yi Padong)</attack>

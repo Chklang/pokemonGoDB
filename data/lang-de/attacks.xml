@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<attacks>
+<attacks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="lang-attacks.xsd">
 	<attack id="1">Wickel</attack>
 	<attack id="2">Hyperstrahl</attack>
 	<attack id="3">Finsteraura</attack>

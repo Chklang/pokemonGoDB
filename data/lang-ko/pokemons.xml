@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<pokemons>
+<pokemons xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lang-pokemons.xsd">
 	<pokemon id="1">이상해씨 (Isanghessi)</pokemon>
 	<pokemon id="2">이상해풀 (Isanghepul)</pokemon>
 	<pokemon id="3">이상해꽃 (Isanghekkot)</pokemon>
