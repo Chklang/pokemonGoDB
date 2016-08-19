@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<types>
+	<type id="1">Normal</type>
+	<type id="2">Combat</type>
+	<type id="3">Vol</type>
+	<type id="4">Poison</type>
+	<type id="5">Sol</type>
+	<type id="6">Roche</type>
+	<type id="7">Insecte</type>
+	<type id="8">Spectre</type>
+	<type id="9">Acier</type>
+	<type id="10">Feu</type>
+	<type id="11">Eau</type>
+	<type id="12">Plante</type>
+	<type id="13">Électrik</type>
+	<type id="14">Psy</type>
+	<type id="15">Glace</type>
+	<type id="16">Dragon</type>
+	<type id="17">Ténèbres</type>
+	<type id="18">Fée</type>
+</types>
