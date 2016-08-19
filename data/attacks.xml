@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<attacks>
+<attacks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="attaques.xsd">
 	<attack id="1" power="25" energy="5" type="special" />
 	<attack id="2" power="120" energy="1" type="special" />
 	<attack id="3" power="45" energy="3" type="special" />
