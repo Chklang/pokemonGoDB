@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<types xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lang-types.xsd">
+	<type id="1">Normale</type>
+	<type id="2">Lotta</type>
+	<type id="3">Volante</type>
+	<type id="4">Veleno</type>
+	<type id="5">Terra</type>
+	<type id="6">Roccia</type>
+	<type id="7">Coleottero</type>
+	<type id="8">Spettro</type>
+	<type id="9">Acciaio</type>
+	<type id="10">Fuoco</type>
+	<type id="11">Acqua</type>
+	<type id="12">Erba</type>
+	<type id="13">Elettro</type>
+	<type id="14">Psico</type>
+	<type id="15">Ghiaccio</type>
+	<type id="16">Drago</type>
+	<type id="17">Buio</type>
+	<type id="18">Fata</type>
+</types>

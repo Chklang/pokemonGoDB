@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<types xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lang-types.xsd">
+	<type id="1">ノーマル</type>
+	<type id="2">かくとう</type>
+	<type id="3">ひこう</type>
+	<type id="4">どく</type>
+	<type id="5">じめん</type>
+	<type id="6">いわ</type>
+	<type id="7">むし</type>
+	<type id="8">ゴースト</type>
+	<type id="9">はがね</type>
+	<type id="10">ほのお</type>
+	<type id="11">みず</type>
+	<type id="12">くさ</type>
+	<type id="13">でんき</type>
+	<type id="14">エスパー</type>
+	<type id="15">こおり</type>
+	<type id="16">ドラゴン</type>
+	<type id="17">あく</type>
+	<type id="18">妖精</type>
+</types>
