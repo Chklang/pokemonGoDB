@@ -1439,7 +1439,7 @@
 	</pokemon>
 	<pokemon id="81" generation="1">
 		<evolutions>
-			<evolution id="462" />
+			<evolution id="82" />
 		</evolutions>
 		<stats attack="128" defense="138" stamina="50" />
 		<shapes>
@@ -1458,6 +1458,7 @@
 	</pokemon>
 	<pokemon id="82" generation="1">
 		<evolutions>
+			<evolution id="462" />
 		</evolutions>
 		<stats attack="186" defense="180" stamina="100" />
 		<shapes>
