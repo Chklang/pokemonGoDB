@@ -691,6 +691,7 @@
 			<attack id="114"/>
 			<attack id="129"/>
 			<attack id="53"/>
+			<attack id="55"/>
 			<attack id="89"/>
 			<attack id="57"/>
 		</attacks>
@@ -894,6 +895,7 @@
 		<attacks>
 			<attack id="108"/>
 			<attack id="112"/>
+			<attack id="124"/>
 			<attack id="9"/>
 			<attack id="64"/>
 			<attack id="37"/>
@@ -2175,6 +2177,7 @@
 			<attack id="113"/>
 			<attack id="122"/>
 			<attack id="73"/>
+			<attack id="74"/>
 			<attack id="39"/>
 			<attack id="11"/>
 		</attacks>
