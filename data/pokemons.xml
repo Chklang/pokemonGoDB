@@ -1598,6 +1598,7 @@
 			</shape>
 		</shapes>
 		<attacks>
+			<attack id="104"/>
 			<attack id="117"/>
 			<attack id="116"/>
 			<attack id="3"/>
