@@ -4,7 +4,7 @@
 		<evolutions>
 			<evolution id="2" />
 		</evolutions>
-		<stats attack="126" defense="126" stamina="90" />
+		<stats attack="118" defense="118" stamina="90" />
 		<shapes>
 			<shape id="1">
 				<type id="12" />
@@ -23,7 +23,7 @@
 		<evolutions>
 			<evolution id="3" />
 		</evolutions>
-		<stats attack="156" defense="158" stamina="120" />
+		<stats attack="151" defense="151" stamina="120" />
 		<shapes>
 			<shape id="1">
 				<type id="12" />
@@ -41,7 +41,7 @@
 	<pokemon id="3" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="198" defense="200" stamina="160" />
+		<stats attack="198" defense="198" stamina="160" />
 		<shapes>
 			<shape id="1">
 				<type id="12" />
@@ -60,7 +60,7 @@
 		<evolutions>
 			<evolution id="5" />
 		</evolutions>
-		<stats attack="128" defense="108" stamina="78" />
+		<stats attack="116" defense="96" stamina="78" />
 		<shapes>
 			<shape id="1">
 				<type id="10" />
@@ -78,7 +78,7 @@
 		<evolutions>
 			<evolution id="6" />
 		</evolutions>
-		<stats attack="160" defense="140" stamina="116" />
+		<stats attack="158" defense="129" stamina="116" />
 		<shapes>
 			<shape id="1">
 				<type id="10" />
@@ -95,7 +95,7 @@
 	<pokemon id="6" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="212" defense="182" stamina="156" />
+		<stats attack="223" defense="176" stamina="156" />
 		<shapes>
 			<shape id="1">
 				<type id="10" />
@@ -114,7 +114,7 @@
 		<evolutions>
 			<evolution id="8" />
 		</evolutions>
-		<stats attack="112" defense="142" stamina="88" />
+		<stats attack="94" defense="122" stamina="88" />
 		<shapes>
 			<shape id="1">
 				<type id="11" />
@@ -132,7 +132,7 @@
 		<evolutions>
 			<evolution id="9" />
 		</evolutions>
-		<stats attack="144" defense="176" stamina="118" />
+		<stats attack="126" defense="155" stamina="118" />
 		<shapes>
 			<shape id="1">
 				<type id="11" />
@@ -149,7 +149,7 @@
 	<pokemon id="9" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="186" defense="222" stamina="158" />
+		<stats attack="171" defense="210" stamina="158" />
 		<shapes>
 			<shape id="1">
 				<type id="11" />
@@ -167,7 +167,7 @@
 		<evolutions>
 			<evolution id="10" />
 		</evolutions>
-		<stats attack="62" defense="66" stamina="90" />
+		<stats attack="55" defense="62" stamina="90" />
 		<shapes>
 			<shape id="1">
 				<type id="7" />
@@ -183,7 +183,7 @@
 		<evolutions>
 			<evolution id="11" />
 		</evolutions>
-		<stats attack="56" defense="86" stamina="100" />
+		<stats attack="45" defense="94" stamina="100" />
 		<shapes>
 			<shape id="1">
 				<type id="7" />
@@ -198,7 +198,7 @@
 	<pokemon id="12" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="144" defense="144" stamina="120" />
+		<stats attack="167" defense="151" stamina="120" />
 		<shapes>
 			<shape id="1">
 				<type id="7" />
@@ -217,7 +217,7 @@
 		<evolutions>
 			<evolution id="14" />
 		</evolutions>
-		<stats attack="68" defense="64" stamina="80" />
+		<stats attack="63" defense="55" stamina="80" />
 		<shapes>
 			<shape id="1">
 				<type id="7" />
@@ -234,7 +234,7 @@
 		<evolutions>
 			<evolution id="15" />
 		</evolutions>
-		<stats attack="62" defense="82" stamina="90" />
+		<stats attack="46" defense="86" stamina="90" />
 		<shapes>
 			<shape id="1">
 				<type id="7" />
@@ -250,7 +250,7 @@
 	<pokemon id="15" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="144" defense="130" stamina="130" />
+		<stats attack="169" defense="150" stamina="130" />
 		<shapes>
 			<shape id="1">
 				<type id="7" />
@@ -269,7 +269,7 @@
 		<evolutions>
 			<evolution id="17" />
 		</evolutions>
-		<stats attack="94" defense="90" stamina="80" />
+		<stats attack="85" defense="76" stamina="80" />
 		<shapes>
 			<shape id="1">
 				<type id="1" />
@@ -288,7 +288,7 @@
 		<evolutions>
 			<evolution id="18" />
 		</evolutions>
-		<stats attack="126" defense="122" stamina="126" />
+		<stats attack="117" defense="108" stamina="126" />
 		<shapes>
 			<shape id="1">
 				<type id="1" />
@@ -306,7 +306,7 @@
 	<pokemon id="18" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="170" defense="166" stamina="166" />
+		<stats attack="166" defense="157" stamina="166" />
 		<shapes>
 			<shape id="1">
 				<type id="1" />
@@ -325,7 +325,7 @@
 		<evolutions>
 			<evolution id="20" />
 		</evolutions>
-		<stats attack="92" defense="86" stamina="60" />
+		<stats attack="103" defense="70" stamina="60" />
 		<shapes>
 			<shape id="1">
 				<type id="1" />
@@ -342,7 +342,7 @@
 	<pokemon id="20" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="146" defense="150" stamina="110" />
+		<stats attack="161" defense="144" stamina="110" />
 		<shapes>
 			<shape id="1">
 				<type id="1" />
@@ -360,7 +360,7 @@
 		<evolutions>
 			<evolution id="22" />
 		</evolutions>
-		<stats attack="102" defense="78" stamina="80" />
+		<stats attack="112" defense="61" stamina="80" />
 		<shapes>
 			<shape id="1">
 				<type id="1" />
@@ -378,7 +378,7 @@
 	<pokemon id="22" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="168" defense="146" stamina="130" />
+		<stats attack="182" defense="135" stamina="130" />
 		<shapes>
 			<shape id="1">
 				<type id="1" />
@@ -397,7 +397,7 @@
 		<evolutions>
 			<evolution id="24" />
 		</evolutions>
-		<stats attack="112" defense="112" stamina="70" />
+		<stats attack="110" defense="102" stamina="70" />
 		<shapes>
 			<shape id="1">
 				<type id="4" />
@@ -414,7 +414,7 @@
 	<pokemon id="24" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="166" defense="166" stamina="120" />
+		<stats attack="167" defense="158" stamina="120" />
 		<shapes>
 			<shape id="1">
 				<type id="4" />
@@ -432,7 +432,7 @@
 		<evolutions>
 			<evolution id="26" />
 		</evolutions>
-		<stats attack="124" defense="108" stamina="70" />
+		<stats attack="112" defense="101" stamina="70" />
 		<shapes>
 			<shape id="1">
 				<type id="13" />
@@ -449,7 +449,7 @@
 	<pokemon id="26" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="200" defense="154" stamina="120" />
+		<stats attack="193" defense="165" stamina="120" />
 		<shapes>
 			<shape id="1">
 				<type id="13" />
@@ -467,7 +467,7 @@
 		<evolutions>
 			<evolution id="28" />
 		</evolutions>
-		<stats attack="90" defense="114" stamina="100" />
+		<stats attack="126" defense="145" stamina="100" />
 		<shapes>
 			<shape id="1">
 				<type id="5" />
@@ -484,7 +484,7 @@
 	<pokemon id="28" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="150" defense="172" stamina="150" />
+		<stats attack="182" defense="202" stamina="150" />
 		<shapes>
 			<shape id="1">
 				<type id="5" />
@@ -502,7 +502,7 @@
 		<evolutions>
 			<evolution id="30" />
 		</evolutions>
-		<stats attack="100" defense="104" stamina="110" />
+		<stats attack="86" defense="94" stamina="110" />
 		<shapes>
 			<shape id="1">
 				<type id="4" />
@@ -520,7 +520,7 @@
 		<evolutions>
 			<evolution id="31" />
 		</evolutions>
-		<stats attack="132" defense="136" stamina="140" />
+		<stats attack="117" defense="126" stamina="140" />
 		<shapes>
 			<shape id="1">
 				<type id="4" />
@@ -537,7 +537,7 @@
 	<pokemon id="31" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="184" defense="190" stamina="180" />
+		<stats attack="180" defense="174" stamina="180" />
 		<shapes>
 			<shape id="1">
 				<type id="4" />
@@ -556,7 +556,7 @@
 		<evolutions>
 			<evolution id="33" />
 		</evolutions>
-		<stats attack="110" defense="94" stamina="92" />
+		<stats attack="105" defense="76" stamina="92" />
 		<shapes>
 			<shape id="1">
 				<type id="4" />
@@ -574,7 +574,7 @@
 		<evolutions>
 			<evolution id="34" />
 		</evolutions>
-		<stats attack="142" defense="128" stamina="122" />
+		<stats attack="137" defense="112" stamina="122" />
 		<shapes>
 			<shape id="1">
 				<type id="4" />
@@ -591,7 +591,7 @@
 	<pokemon id="34" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="204" defense="170" stamina="162" />
+		<stats attack="204" defense="157" stamina="162" />
 		<shapes>
 			<shape id="1">
 				<type id="4" />
@@ -610,7 +610,7 @@
 		<evolutions>
 			<evolution id="36" />
 		</evolutions>
-		<stats attack="116" defense="124" stamina="140" />
+		<stats attack="107" defense="116" stamina="140" />
 		<shapes>
 			<shape id="1">
 				<type id="18" />
@@ -627,7 +627,7 @@
 	<pokemon id="36" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="178" defense="178" stamina="190" />
+		<stats attack="178" defense="171" stamina="190" />
 		<shapes>
 			<shape id="1">
 				<type id="18" />
@@ -645,7 +645,7 @@
 		<evolutions>
 			<evolution id="38" />
 		</evolutions>
-		<stats attack="106" defense="118" stamina="76" />
+		<stats attack="96" defense="122" stamina="76" />
 		<shapes>
 			<shape id="1">
 				<type id="10" />
@@ -662,7 +662,7 @@
 	<pokemon id="38" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="176" defense="194" stamina="146" />
+		<stats attack="169" defense="204" stamina="146" />
 		<shapes>
 			<shape id="1">
 				<type id="10" />
@@ -680,7 +680,7 @@
 		<evolutions>
 			<evolution id="40" />
 		</evolutions>
-		<stats attack="98" defense="54" stamina="230" />
+		<stats attack="80" defense="44" stamina="230" />
 		<shapes>
 			<shape id="1">
 				<type id="1" />
@@ -699,7 +699,7 @@
 	<pokemon id="40" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="168" defense="108" stamina="280" />
+		<stats attack="156" defense="93" stamina="280" />
 		<shapes>
 			<shape id="1">
 				<type id="1" />
@@ -718,7 +718,8 @@
 		<evolutions>
 			<evolution id="42" />
 		</evolutions>
-		<stats attack="88" defense="90" stamina="80" />
+		<stats attack="83" defense="76" stamina="80" />
+
 		<shapes>
 			<shape id="1">
 				<type id="4" />
@@ -737,7 +738,7 @@
 		<evolutions>
 			<evolution id="169" />
 		</evolutions>
-		<stats attack="164" defense="164" stamina="150" />
+		<stats attack="161" defense="153" stamina="150" />
 		<shapes>
 			<shape id="1">
 				<type id="4" />
@@ -756,7 +757,7 @@
 		<evolutions>
 			<evolution id="44" />
 		</evolutions>
-		<stats attack="134" defense="130" stamina="90" />
+		<stats attack="131" defense="116" stamina="90" />
 		<shapes>
 			<shape id="1">
 				<type id="12" />
@@ -775,7 +776,7 @@
 		<evolutions>
 			<evolution id="45" />
 		</evolutions>
-		<stats attack="162" defense="158" stamina="120" />
+		<stats attack="153" defense="139" stamina="120" />
 		<shapes>
 			<shape id="1">
 				<type id="12" />
@@ -793,7 +794,7 @@
 	<pokemon id="45" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="202" defense="190" stamina="150" />
+		<stats attack="202" defense="170" stamina="150" />
 		<shapes>
 			<shape id="1">
 				<type id="12" />
@@ -812,7 +813,7 @@
 		<evolutions>
 			<evolution id="47" />
 		</evolutions>
-		<stats attack="122" defense="120" stamina="70" />
+		<stats attack="121" defense="99" stamina="70" />
 		<shapes>
 			<shape id="1">
 				<type id="7" />
@@ -830,7 +831,7 @@
 	<pokemon id="47" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="162" defense="170" stamina="120" />
+		<stats attack="165" defense="146" stamina="120" />
 		<shapes>
 			<shape id="1">
 				<type id="7" />
@@ -849,7 +850,7 @@
 		<evolutions>
 			<evolution id="49" />
 		</evolutions>
-		<stats attack="108" defense="118" stamina="120" />
+		<stats attack="100" defense="102" stamina="120" />
 		<shapes>
 			<shape id="1">
 				<type id="7" />
@@ -867,7 +868,7 @@
 	<pokemon id="49" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="172" defense="154" stamina="140" />
+		<stats attack="179" defense="150" stamina="140" />
 		<shapes>
 			<shape id="1">
 				<type id="7" />
@@ -886,7 +887,7 @@
 		<evolutions>
 			<evolution id="51" />
 		</evolutions>
-		<stats attack="108" defense="86" stamina="20" />
+		<stats attack="109" defense="88" stamina="20" />
 		<shapes>
 			<shape id="1">
 				<type id="5" />
@@ -904,7 +905,7 @@
 	<pokemon id="51" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="148" defense="140" stamina="70" />
+		<stats attack="167" defense="147" stamina="70" />
 		<shapes>
 			<shape id="1">
 				<type id="5" />
@@ -922,7 +923,7 @@
 		<evolutions>
 			<evolution id="53" />
 		</evolutions>
-		<stats attack="104" defense="94" stamina="80" />
+		<stats attack="92" defense="81" stamina="80" />
 		<shapes>
 			<shape id="1">
 				<type id="1" />
@@ -939,7 +940,7 @@
 	<pokemon id="53" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="156" defense="146" stamina="130" />
+		<stats attack="150" defense="139" stamina="130" />
 		<shapes>
 			<shape id="1">
 				<type id="1" />
@@ -957,7 +958,7 @@
 		<evolutions>
 			<evolution id="55" />
 		</evolutions>
-		<stats attack="132" defense="112" stamina="100" />
+		<stats attack="122" defense="96" stamina="100" />
 		<shapes>
 			<shape id="1">
 				<type id="11" />
@@ -974,7 +975,7 @@
 	<pokemon id="55" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="194" defense="176" stamina="160" />
+		<stats attack="191" defense="163" stamina="160" />
 		<shapes>
 			<shape id="1">
 				<type id="11" />
@@ -992,7 +993,7 @@
 		<evolutions>
 			<evolution id="57" />
 		</evolutions>
-		<stats attack="122" defense="96" stamina="80" />
+		<stats attack="148" defense="87" stamina="80" />
 		<shapes>
 			<shape id="1">
 				<type id="2" />
@@ -1009,7 +1010,7 @@
 	<pokemon id="57" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="178" defense="150" stamina="130" />
+		<stats attack="207" defense="144" stamina="130" />
 		<shapes>
 			<shape id="1">
 				<type id="2" />
@@ -1027,7 +1028,7 @@
 		<evolutions>
 			<evolution id="59" />
 		</evolutions>
-		<stats attack="156" defense="110" stamina="110" />
+		<stats attack="136" defense="96" stamina="110" />
 		<shapes>
 			<shape id="1">
 				<type id="10" />
@@ -1044,7 +1045,7 @@
 	<pokemon id="59" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="230" defense="180" stamina="180" />
+		<stats attack="227" defense="166" stamina="180" />
 		<shapes>
 			<shape id="1">
 				<type id="10" />
@@ -1062,7 +1063,7 @@
 		<evolutions>
 			<evolution id="61" />
 		</evolutions>
-		<stats attack="108" defense="98" stamina="80" />
+		<stats attack="101" defense="82" stamina="80" />
 		<shapes>
 			<shape id="1">
 				<type id="11" />
@@ -1080,7 +1081,7 @@
 		<evolutions>
 			<evolution id="62" />
 		</evolutions>
-		<stats attack="132" defense="132" stamina="130" />
+		<stats attack="130" defense="130" stamina="130" />
 		<shapes>
 			<shape id="1">
 				<type id="11" />
@@ -1097,7 +1098,7 @@
 	<pokemon id="62" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="180" defense="202" stamina="180" />
+		<stats attack="182" defense="187" stamina="180" />
 		<shapes>
 			<shape id="1">
 				<type id="11" />
@@ -1116,7 +1117,7 @@
 		<evolutions>
 			<evolution id="64" />
 		</evolutions>
-		<stats attack="110" defense="76" stamina="50" />
+		<stats attack="195" defense="103" stamina="50" />
 		<shapes>
 			<shape id="1">
 				<type id="14" />
@@ -1133,7 +1134,7 @@
 		<evolutions>
 			<evolution id="65" />
 		</evolutions>
-		<stats attack="150" defense="112" stamina="80" />
+		<stats attack="232" defense="138" stamina="80" />
 		<shapes>
 			<shape id="1">
 				<type id="14" />
@@ -1150,7 +1151,7 @@
 	<pokemon id="65" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="186" defense="152" stamina="110" />
+		<stats attack="271" defense="194" stamina="110" />
 		<shapes>
 			<shape id="1">
 				<type id="14" />
@@ -1168,7 +1169,7 @@
 		<evolutions>
 			<evolution id="67" />
 		</evolutions>
-		<stats attack="118" defense="96" stamina="140" />
+		<stats attack="137" defense="88" stamina="140" />
 		<shapes>
 			<shape id="1">
 				<type id="2" />
@@ -1186,7 +1187,7 @@
 		<evolutions>
 			<evolution id="68" />
 		</evolutions>
-		<stats attack="154" defense="144" stamina="160" />
+		<stats attack="177" defense="130" stamina="160" />
 		<shapes>
 			<shape id="1">
 				<type id="2" />
@@ -1203,7 +1204,7 @@
 	<pokemon id="68" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="198" defense="180" stamina="180" />
+		<stats attack="234" defense="162" stamina="180" />
 		<shapes>
 			<shape id="1">
 				<type id="2" />
@@ -1221,7 +1222,7 @@
 		<evolutions>
 			<evolution id="70" />
 		</evolutions>
-		<stats attack="158" defense="78" stamina="100" />
+		<stats attack="139" defense="64" stamina="100" />
 		<shapes>
 			<shape id="1">
 				<type id="12" />
@@ -1240,7 +1241,7 @@
 		<evolutions>
 			<evolution id="71" />
 		</evolutions>
-		<stats attack="190" defense="110" stamina="130" />
+		<stats attack="172" defense="95" stamina="130" />
 		<shapes>
 			<shape id="1">
 				<type id="12" />
@@ -1258,7 +1259,7 @@
 	<pokemon id="71" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="222" defense="152" stamina="160" />
+		<stats attack="207" defense="138" stamina="160" />
 		<shapes>
 			<shape id="1">
 				<type id="12" />
@@ -1277,7 +1278,7 @@
 		<evolutions>
 			<evolution id="73" />
 		</evolutions>
-		<stats attack="106" defense="136" stamina="80" />
+		<stats attack="97" defense="182" stamina="80" />
 		<shapes>
 			<shape id="1">
 				<type id="11" />
@@ -1295,7 +1296,7 @@
 	<pokemon id="73" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="170" defense="196" stamina="160" />
+		<stats attack="166" defense="237" stamina="160" />
 		<shapes>
 			<shape id="1">
 				<type id="11" />
@@ -1314,7 +1315,7 @@
 		<evolutions>
 			<evolution id="75" />
 		</evolutions>
-		<stats attack="106" defense="118" stamina="80" />
+		<stats attack="132" defense="163" stamina="80" />
 		<shapes>
 			<shape id="1">
 				<type id="6" />
@@ -1333,7 +1334,7 @@
 		<evolutions>
 			<evolution id="76" />
 		</evolutions>
-		<stats attack="142" defense="156" stamina="110" />
+		<stats attack="164" defense="196" stamina="110" />
 		<shapes>
 			<shape id="1">
 				<type id="6" />
@@ -1351,7 +1352,7 @@
 	<pokemon id="76" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="176" defense="198" stamina="160" />
+		<stats attack="211" defense="229" stamina="160" />
 		<shapes>
 			<shape id="1">
 				<type id="6" />
@@ -1370,7 +1371,7 @@
 		<evolutions>
 			<evolution id="78" />
 		</evolutions>
-		<stats attack="168" defense="138" stamina="100" />
+		<stats attack="170" defense="132" stamina="100" />
 		<shapes>
 			<shape id="1">
 				<type id="10" />
@@ -1387,7 +1388,7 @@
 	<pokemon id="78" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="200" defense="170" stamina="130" />
+		<stats attack="207" defense="167" stamina="130" />
 		<shapes>
 			<shape id="1">
 				<type id="10" />
@@ -1405,7 +1406,7 @@
 		<evolutions>
 			<evolution id="80" />
 		</evolutions>
-		<stats attack="110" defense="110" stamina="180" />
+		<stats attack="109" defense="109" stamina="180" />
 		<shapes>
 			<shape id="1">
 				<type id="11" />
@@ -1424,7 +1425,7 @@
 		<evolutions>
 			<evolution id="81" />
 		</evolutions>
-		<stats attack="184" defense="198" stamina="190" />
+		<stats attack="177" defense="194" stamina="190" />
 		<shapes>
 			<shape id="1">
 				<type id="11" />
@@ -1443,7 +1444,7 @@
 		<evolutions>
 			<evolution id="82" />
 		</evolutions>
-		<stats attack="128" defense="138" stamina="50" />
+		<stats attack="165" defense="128" stamina="50" />
 		<shapes>
 			<shape id="1">
 				<type id="13" />
@@ -1462,7 +1463,7 @@
 		<evolutions>
 			<evolution id="462" />
 		</evolutions>
-		<stats attack="186" defense="180" stamina="100" />
+		<stats attack="223" defense="182" stamina="100" />
 		<shapes>
 			<shape id="1">
 				<type id="13" />
@@ -1480,7 +1481,7 @@
 	<pokemon id="83" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="138" defense="132" stamina="104" />
+		<stats attack="124" defense="118" stamina="104" />
 		<shapes>
 			<shape id="1">
 				<type id="1" />
@@ -1499,7 +1500,7 @@
 		<evolutions>
 			<evolution id="85" />
 		</evolutions>
-		<stats attack="126" defense="96" stamina="70" />
+		<stats attack="158" defense="88" stamina="70" />
 		<shapes>
 			<shape id="1">
 				<type id="1" />
@@ -1517,7 +1518,7 @@
 	<pokemon id="85" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="182" defense="150" stamina="120" />
+		<stats attack="218" defense="145" stamina="120" />
 		<shapes>
 			<shape id="1">
 				<type id="1" />
@@ -1536,7 +1537,7 @@
 		<evolutions>
 			<evolution id="87" />
 		</evolutions>
-		<stats attack="104" defense="138" stamina="130" />
+		<stats attack="85" defense="128" stamina="130" />
 		<shapes>
 			<shape id="1">
 				<type id="11" />
@@ -1554,7 +1555,7 @@
 	<pokemon id="87" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="156" defense="192" stamina="180" />
+		<stats attack="139" defense="184" stamina="180" />
 		<shapes>
 			<shape id="1">
 				<type id="11" />
@@ -1573,7 +1574,7 @@
 		<evolutions>
 			<evolution id="89" />
 		</evolutions>
-		<stats attack="124" defense="110" stamina="160" />
+		<stats attack="135" defense="90" stamina="160" />
 		<shapes>
 			<shape id="1">
 				<type id="4" />
@@ -1591,7 +1592,7 @@
 	<pokemon id="89" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="180" defense="188" stamina="210" />
+		<stats attack="190" defense="184" stamina="210" />
 		<shapes>
 			<shape id="1">
 				<type id="4" />
@@ -1610,7 +1611,7 @@
 		<evolutions>
 			<evolution id="91" />
 		</evolutions>
-		<stats attack="120" defense="112" stamina="60" />
+		<stats attack="116" defense="168" stamina="60" />
 		<shapes>
 			<shape id="1">
 				<type id="11" />
@@ -1627,7 +1628,7 @@
 	<pokemon id="91" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="196" defense="196" stamina="100" />
+		<stats attack="186" defense="323" stamina="100" />
 		<shapes>
 			<shape id="1">
 				<type id="11" />
@@ -1646,7 +1647,7 @@
 		<evolutions>
 			<evolution id="93" />
 		</evolutions>
-		<stats attack="136" defense="82" stamina="60" />
+		<stats attack="186" defense="70" stamina="60" />
 		<shapes>
 			<shape id="1">
 				<type id="8" />
@@ -1665,7 +1666,7 @@
 		<evolutions>
 			<evolution id="94" />
 		</evolutions>
-		<stats attack="172" defense="118" stamina="90" />
+		<stats attack="223" defense="112" stamina="90" />
 		<shapes>
 			<shape id="1">
 				<type id="8" />
@@ -1683,7 +1684,7 @@
 	<pokemon id="94" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="204" defense="156" stamina="120" />
+		<stats attack="261" defense="156" stamina="120" />
 		<shapes>
 			<shape id="1">
 				<type id="8" />
@@ -1703,7 +1704,7 @@
 		<evolutions>
 			<evolution id="208" />
 		</evolutions>
-		<stats attack="90" defense="186" stamina="70" />
+		<stats attack="85" defense="288" stamina="70" />
 		<shapes>
 			<shape id="1">
 				<type id="6" />
@@ -1722,7 +1723,7 @@
 		<evolutions>
 			<evolution id="97" />
 		</evolutions>
-		<stats attack="104" defense="140" stamina="120" />
+		<stats attack="89" defense="158" stamina="120" />
 		<shapes>
 			<shape id="1">
 				<type id="14" />
@@ -1739,7 +1740,7 @@
 	<pokemon id="97" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="162" defense="196" stamina="170" />
+		<stats attack="144" defense="215" stamina="170" />
 		<shapes>
 			<shape id="1">
 				<type id="14" />
@@ -1757,7 +1758,7 @@
 		<evolutions>
 			<evolution id="99" />
 		</evolutions>
-		<stats attack="116" defense="110" stamina="60" />
+		<stats attack="181" defense="156" stamina="60" />
 		<shapes>
 			<shape id="1">
 				<type id="11" />
@@ -1774,7 +1775,7 @@
 	<pokemon id="99" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="178" defense="168" stamina="110" />
+		<stats attack="240" defense="214" stamina="110" />
 		<shapes>
 			<shape id="1">
 				<type id="11" />
@@ -1792,7 +1793,7 @@
 		<evolutions>
 			<evolution id="101" />
 		</evolutions>
-		<stats attack="102" defense="124" stamina="80" />
+		<stats attack="109" defense="114" stamina="80" />
 		<shapes>
 			<shape id="1">
 				<type id="13" />
@@ -1809,7 +1810,7 @@
 	<pokemon id="101" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="150" defense="174" stamina="120" />
+		<stats attack="173" defense="179" stamina="120" />
 		<shapes>
 			<shape id="1">
 				<type id="13" />
@@ -1827,7 +1828,7 @@
 		<evolutions>
 			<evolution id="103" />
 		</evolutions>
-		<stats attack="110" defense="132" stamina="120" />
+		<stats attack="107" defense="140" stamina="120" />
 		<shapes>
 			<shape id="1">
 				<type id="12" />
@@ -1844,7 +1845,7 @@
 	<pokemon id="103" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="232" defense="164" stamina="190" />
+		<stats attack="233" defense="158" stamina="190" />
 		<shapes>
 			<shape id="1">
 				<type id="12" />
@@ -1863,7 +1864,7 @@
 		<evolutions>
 			<evolution id="105" />
 		</evolutions>
-		<stats attack="102" defense="150" stamina="100" />
+		<stats attack="90" defense="165" stamina="100" />
 		<shapes>
 			<shape id="1">
 				<type id="5" />
@@ -1880,7 +1881,7 @@
 	<pokemon id="105" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="140" defense="202" stamina="120" />
+		<stats attack="144" defense="200" stamina="120" />
 		<shapes>
 			<shape id="1">
 				<type id="5" />
@@ -1898,7 +1899,7 @@
 		<evolutions>
 			<evolution id="107" />
 		</evolutions>
-		<stats attack="148" defense="172" stamina="100" />
+		<stats attack="224" defense="211" stamina="100" />
 		<shapes>
 			<shape id="1">
 				<type id="2" />
@@ -1916,7 +1917,7 @@
 		<evolutions>
 			<evolution id="237" />
 		</evolutions>
-		<stats attack="138" defense="204" stamina="100" />
+		<stats attack="193" defense="212" stamina="100" />
 		<shapes>
 			<shape id="1">
 				<type id="2" />
@@ -1935,7 +1936,7 @@
 		<evolutions>
 			<evolution id="463" />
 		</evolutions>
-		<stats attack="126" defense="160" stamina="180" />
+		<stats attack="108" defense="137" stamina="180" />
 		<shapes>
 			<shape id="1">
 				<type id="1" />
@@ -1953,7 +1954,7 @@
 		<evolutions>
 			<evolution id="110" />
 		</evolutions>
-		<stats attack="136" defense="142" stamina="80" />
+		<stats attack="119" defense="164" stamina="80" />
 		<shapes>
 			<shape id="1">
 				<type id="4" />
@@ -1970,7 +1971,7 @@
 	<pokemon id="110" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="190" defense="198" stamina="130" />
+		<stats attack="174" defense="221" stamina="130" />
 		<shapes>
 			<shape id="1">
 				<type id="4" />
@@ -1988,7 +1989,7 @@
 		<evolutions>
 			<evolution id="112" />
 		</evolutions>
-		<stats attack="110" defense="116" stamina="160" />
+		<stats attack="140" defense="157" stamina="160" />
 		<shapes>
 			<shape id="1">
 				<type id="5" />
@@ -2007,7 +2008,7 @@
 		<evolutions>
 			<evolution id="464" />
 		</evolutions>
-		<stats attack="166" defense="160" stamina="210" />
+		<stats attack="222" defense="206" stamina="210" />
 		<shapes>
 			<shape id="1">
 				<type id="5" />
@@ -2026,7 +2027,7 @@
 		<evolutions>
 			<evolution id="242" />
 		</evolutions>
-		<stats attack="40" defense="60" stamina="500" />
+		<stats attack="60" defense="176" stamina="500" />
 		<shapes>
 			<shape id="1">
 				<type id="1" />
@@ -2045,7 +2046,7 @@
 		<evolutions>
 			<evolution id="465" />
 		</evolutions>
-		<stats attack="164" defense="152" stamina="130" />
+		<stats attack="183" defense="205" stamina="130" />
 		<shapes>
 			<shape id="1">
 				<type id="12" />
@@ -2061,7 +2062,7 @@
 	<pokemon id="115" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="142" defense="178" stamina="210" />
+		<stats attack="181" defense="165" stamina="210" />
 		<shapes>
 			<shape id="1">
 				<type id="1" />
@@ -2079,7 +2080,7 @@
 		<evolutions>
 			<evolution id="117" />
 		</evolutions>
-		<stats attack="122" defense="100" stamina="60" />
+		<stats attack="129" defense="125" stamina="60" />
 		<shapes>
 			<shape id="1">
 				<type id="11" />
@@ -2097,7 +2098,7 @@
 		<evolutions>
 			<evolution id="230" />
 		</evolutions>
-		<stats attack="176" defense="150" stamina="110" />
+		<stats attack="187" defense="182" stamina="110" />
 		<shapes>
 			<shape id="1">
 				<type id="11" />
@@ -2115,7 +2116,7 @@
 		<evolutions>
 			<evolution id="119" />
 		</evolutions>
-		<stats attack="112" defense="126" stamina="90" />
+		<stats attack="123" defense="115" stamina="90" />
 		<shapes>
 			<shape id="1">
 				<type id="11" />
@@ -2132,7 +2133,7 @@
 	<pokemon id="119" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="172" defense="160" stamina="160" />
+		<stats attack="175" defense="154" stamina="160" />
 		<shapes>
 			<shape id="1">
 				<type id="11" />
@@ -2150,7 +2151,7 @@
 		<evolutions>
 			<evolution id="121" />
 		</evolutions>
-		<stats attack="130" defense="128" stamina="60" />
+		<stats attack="137" defense="112" stamina="60" />
 		<shapes>
 			<shape id="1">
 				<type id="11" />
@@ -2168,7 +2169,7 @@
 	<pokemon id="121" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="194" defense="192" stamina="120" />
+		<stats attack="210" defense="184" stamina="120" />
 		<shapes>
 			<shape id="1">
 				<type id="11" />
@@ -2188,7 +2189,7 @@
 	<pokemon id="122" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="154" defense="196" stamina="80" />
+		<stats attack="192" defense="233" stamina="80" />
 		<shapes>
 			<shape id="1">
 				<type id="14" />
@@ -2207,7 +2208,7 @@
 		<evolutions>
 			<evolution id="212" />
 		</evolutions>
-		<stats attack="176" defense="180" stamina="140" />
+		<stats attack="218" defense="170" stamina="140" />
 		<shapes>
 			<shape id="1">
 				<type id="7" />
@@ -2225,7 +2226,7 @@
 	<pokemon id="124" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="172" defense="134" stamina="130" />
+		<stats attack="223" defense="182" stamina="130" />
 		<shapes>
 			<shape id="1">
 				<type id="15" />
@@ -2244,7 +2245,7 @@
 		<evolutions>
 			<evolution id="466" />
 		</evolutions>
-		<stats attack="198" defense="160" stamina="130" />
+		<stats attack="198" defense="173" stamina="130" />
 		<shapes>
 			<shape id="1">
 				<type id="13" />
@@ -2262,7 +2263,7 @@
 		<evolutions>
 			<evolution id="467" />
 		</evolutions>
-		<stats attack="214" defense="158" stamina="130" />
+		<stats attack="206" defense="169" stamina="130" />
 		<shapes>
 			<shape id="1">
 				<type id="10" />
@@ -2279,7 +2280,7 @@
 	<pokemon id="127" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="184" defense="186" stamina="130" />
+		<stats attack="238" defense="197" stamina="130" />
 		<shapes>
 			<shape id="1">
 				<type id="7" />
@@ -2296,7 +2297,7 @@
 	<pokemon id="128" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="148" defense="184" stamina="150" />
+		<stats attack="198" defense="197" stamina="150" />
 		<shapes>
 			<shape id="1">
 				<type id="1" />
@@ -2314,7 +2315,7 @@
 		<evolutions>
 			<evolution id="130" />
 		</evolutions>
-		<stats attack="42" defense="84" stamina="40" />
+		<stats attack="29" defense="102" stamina="40" />
 		<shapes>
 			<shape id="1">
 				<type id="11" />
@@ -2328,7 +2329,7 @@
 	<pokemon id="130" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="192" defense="196" stamina="190" />
+		<stats attack="237" defense="197" stamina="190" />
 		<shapes>
 			<shape id="1">
 				<type id="11" />
@@ -2364,7 +2365,7 @@
 	<pokemon id="132" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="110" defense="110" stamina="96" />
+		<stats attack="91" defense="91" stamina="96" />
 		<shapes>
 			<shape id="1">
 				<type id="1" />
@@ -2381,7 +2382,7 @@
 			<evolution id="135" />
 			<evolution id="136" />
 		</evolutions>
-		<stats attack="114" defense="128" stamina="110" />
+		<stats attack="104" defense="121" stamina="110" />
 		<shapes>
 			<shape id="1">
 				<type id="1" />
@@ -2398,7 +2399,7 @@
 	<pokemon id="134" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="186" defense="168" stamina="260" />
+		<stats attack="205" defense="177" stamina="260" />
 		<shapes>
 			<shape id="1">
 				<type id="11" />
@@ -2413,7 +2414,7 @@
 	</pokemon>
 	<pokemon id="135" generation="1">
 		<evolutions />
-		<stats attack="192" defense="174" stamina="130" />
+		<stats attack="232" defense="201" stamina="130" />
 		<shapes>
 			<shape id="1">
 				<type id="13" />
@@ -2429,7 +2430,7 @@
 	<pokemon id="136" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="238" defense="178" stamina="130" />
+		<stats attack="246" defense="204" stamina="130" />
 		<shapes>
 			<shape id="1">
 				<type id="10" />
@@ -2446,7 +2447,7 @@
 		<evolutions>
 			<evolution id="233" />
 		</evolutions>
-		<stats attack="156" defense="158" stamina="130" />
+		<stats attack="153" defense="139" stamina="130" />
 		<shapes>
 			<shape id="1">
 				<type id="1" />
@@ -2464,7 +2465,7 @@
 		<evolutions>
 			<evolution id="139" />
 		</evolutions>
-		<stats attack="132" defense="160" stamina="70" />
+		<stats attack="155" defense="174" stamina="70" />
 		<shapes>
 			<shape id="1">
 				<type id="6" />
@@ -2482,7 +2483,7 @@
 	<pokemon id="139" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="180" defense="202" stamina="140" />
+		<stats attack="207" defense="227" stamina="140" />
 		<shapes>
 			<shape id="1">
 				<type id="6" />
@@ -2501,7 +2502,7 @@
 		<evolutions>
 			<evolution id="141" />
 		</evolutions>
-		<stats attack="148" defense="142" stamina="60" />
+		<stats attack="148" defense="162" stamina="60" />
 		<shapes>
 			<shape id="1">
 				<type id="6" />
@@ -2519,7 +2520,7 @@
 	<pokemon id="141" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="190" defense="190" stamina="120" />
+		<stats attack="220" defense="203" stamina="120" />
 		<shapes>
 			<shape id="1">
 				<type id="6" />
@@ -2537,7 +2538,7 @@
 	<pokemon id="142" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="182" defense="162" stamina="160" />
+		<stats attack="221" defense="164" stamina="160" />
 		<shapes>
 			<shape id="1">
 				<type id="6" />
@@ -2555,7 +2556,7 @@
 	<pokemon id="143" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="180" defense="180" stamina="320" />
+		<stats attack="190" defense="190" stamina="320" />
 		<shapes>
 			<shape id="1">
 				<type id="1" />
@@ -2572,7 +2573,7 @@
 	<pokemon id="144" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="198" defense="242" stamina="180" />
+		<stats attack="192" defense="249" stamina="180" />
 		<shapes>
 			<shape id="1">
 				<type id="15" />
@@ -2589,7 +2590,7 @@
 	<pokemon id="145" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="232" defense="194" stamina="180" />
+		<stats attack="253" defense="188" stamina="180" />
 		<shapes>
 			<shape id="1">
 				<type id="13" />
@@ -2606,7 +2607,7 @@
 	<pokemon id="146" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="242" defense="194" stamina="180" />
+		<stats attack="251" defense="184" stamina="180" />
 		<shapes>
 			<shape id="1">
 				<type id="10" />
@@ -2624,7 +2625,7 @@
 		<evolutions>
 			<evolution id="148" />
 		</evolutions>
-		<stats attack="128" defense="110" stamina="82" />
+		<stats attack="119" defense="94" stamina="82" />
 		<shapes>
 			<shape id="1">
 				<type id="16" />
@@ -2641,7 +2642,7 @@
 		<evolutions>
 			<evolution id="149" />
 		</evolutions>
-		<stats attack="170" defense="152" stamina="122" />
+		<stats attack="163" defense="138" stamina="122" />
 		<shapes>
 			<shape id="1">
 				<type id="16" />
@@ -2657,7 +2658,7 @@
 	<pokemon id="149" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="250" defense="212" stamina="182" />
+		<stats attack="263" defense="201" stamina="182" />
 		<shapes>
 			<shape id="1">
 				<type id="16" />
@@ -2675,7 +2676,7 @@
 	<pokemon id="150" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="284" defense="202" stamina="212" />
+		<stats attack="330" defense="200" stamina="212" />
 		<shapes>
 			<shape id="1">
 				<type id="14" />
@@ -2691,7 +2692,7 @@
 	<pokemon id="151" generation="1">
 		<evolutions>
 		</evolutions>
-		<stats attack="220" defense="220" stamina="200" />
+		<stats attack="210" defense="210" stamina="200" />
 		<shapes>
 			<shape id="1">
 				<type id="14" />
